@@ -1,0 +1,43 @@
+Folder PATH listing
+Volume serial number is 00000023 60BA:9B53
+E:.
+|   full_tree_sprint18_15Jun26.txt
+|   README.md
+|   
++---architecture_patterns
++---blueprints
+|       campus_blueprint.md
+|       
++---case_studies
++---cloud40
++---community
++---diagrams
++---digital_twins
++---docs
+|       architecture.md
+|       getting_started.md
+|       roadmap.md
+|       
++---ecosystem_engineering
++---faep
++---global_campus_mesh
++---images
++---industry50
++---innovation_campus
++---knowledge_graphs
++---labs
++---master_tree
+|       faep_ecosystem_master_tree.md
+|       
++---notebooks
++---qai
++---qai_engineering
++---references
++---research_intelligence
++---roadmap
++---samples
++---society50
++---software_engineering
++---student_learning_tracks
++---systems_engineering
+\---tutorials
