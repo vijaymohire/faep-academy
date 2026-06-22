@@ -1,4 +1,4 @@
-﻿# human_sovereignty
+﻿# learning_paths
 
 ## Purpose
 

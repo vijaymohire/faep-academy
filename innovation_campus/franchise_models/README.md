@@ -1,4 +1,4 @@
-﻿# human_sovereignty
+﻿# franchise_models
 
 ## Purpose
 

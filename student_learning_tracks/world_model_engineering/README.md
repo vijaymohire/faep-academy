@@ -1,4 +1,4 @@
-﻿# human_sovereignty
+﻿# world_model_engineering
 
 ## Purpose
 

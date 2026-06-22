@@ -1,4 +1,4 @@
-﻿# human_sovereignty
+﻿# business_models
 
 ## Purpose
 

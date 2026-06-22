@@ -1,4 +1,4 @@
-﻿# human_sovereignty
+﻿# human_sovereignty_engineering
 
 ## Purpose
 

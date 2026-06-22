@@ -1,4 +1,4 @@
-﻿# human_sovereignty
+﻿# scientists
 
 ## Purpose
 

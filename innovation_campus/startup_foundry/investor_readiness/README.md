@@ -1,4 +1,4 @@
-﻿# human_sovereignty
+﻿# investor_readiness
 
 ## Purpose
 

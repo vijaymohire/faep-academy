@@ -1,4 +1,4 @@
-﻿# human_sovereignty
+﻿# qai_architecture_engineering
 
 ## Purpose
 
