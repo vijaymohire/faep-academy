@@ -1,21 +1,44 @@
-# research_intelligence
+# Research Intelligence
 
-## Overview
+## Mission
 
-Work in progress.
+Transform academic knowledge into practical QAI technologies.
 
-## Concepts
+This directory contains research activities including:
 
-TBD
+- Knowledge mining
+- Theory extraction
+- Technology derivation
+- Patent candidates
+- Validation
+- Research maturity
 
-## Architecture
+---
 
-TBD
+## Pipeline
 
-## Roadmap
+Academic Knowledge
 
-TBD
+↓
 
-## References
+Engineering
 
-TBD
+↓
+
+QAI
+
+↓
+
+FAEP
+
+↓
+
+Prototype
+
+↓
+
+Validation
+
+↓
+
+Product
