@@ -37,3 +37,8 @@ FAEP Academy provides:
 ## Status
 
 Work In Progress
+
+## Latest Release
+
+Current stable release:
+FAEP Academy v1.0.0
