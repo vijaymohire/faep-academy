@@ -1,0 +1,1184 @@
+Folder PATH listing
+Volume serial number is 00000093 60BA:9B53
+E:.
+¦   .gitignore
+¦   create-mit-knowledge-structure.ps1
+¦   create-next-gen-faep-structure.ps1
+¦   create-student-learning-tracks-bootstrap.ps1
+¦   create-technology-structure.ps1
+¦   empty_md_report.csv
+¦   faep_knowledge_graphs_generator.ps1
+¦   full_tree_sprint19_26Jun26_1.txt
+¦   full_tree_sprint19_28Jun28_1.txt
+¦   README.md
+¦   repository_tree.txt
+¦   START_HERE.md
+¦   
++---architecture_patterns
+¦       README.md
+¦       
++---assets
+¦   ¦   README.md
+¦   ¦   
+¦   +---banners
+¦   +---covers
+¦   +---icons
+¦   +---logos
++---blueprints
+¦   ¦   campus_blueprint.md
+¦   ¦   README.md
+¦   ¦   
+¦   +---campus
+¦   +---cloud40
+¦   +---industry50
+¦   +---qai
+¦   +---society50
++---case_studies
+¦       README.md
+¦       
++---cloud40
+¦       README.md
+¦       
++---community
+¦   ¦   README.md
+¦   ¦   
+¦   +---contributors
+¦   +---expert_guidance
+¦   ¦   ¦   lessons_learned.md
+¦   ¦   ¦   mentor_notes.md
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---careers
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---digital_twins
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---ftqc
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---governance
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---investors
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---qai
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---research
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---startups
+¦   ¦           README.md
+¦   ¦           
+¦   +---projects
++---diagrams
+¦   ¦   README.md
+¦   ¦   
+¦   +---campus
+¦   +---cloud40
+¦   +---faep
+¦   +---industry50
+¦   +---qai
+¦   +---society50
++---digital_twins
+¦   ¦   README.md
+¦   ¦   
+¦   +---ai_qai_twins
+¦   ¦       README.md
+¦   ¦       
+¦   +---ecosystem_twins
+¦   ¦       README.md
+¦   ¦       
+¦   +---enterprise_twins
+¦   ¦       README.md
+¦   ¦       
+¦   +---human_twins
+¦   ¦       README.md
+¦   ¦       
+¦   +---infrastructure_twins
+¦   ¦       README.md
+¦   ¦       
+¦   +---knowledge_twins
+¦   ¦       README.md
+¦   ¦       
+¦   +---process_twins
+¦   ¦       README.md
+¦   ¦       
+¦   +---product_twins
+¦   ¦       README.md
+¦   ¦       
+¦   +---scientific_twins
+¦   ¦       README.md
+¦   ¦       
+¦   +---synchronization
+¦           README.md
+¦           
++---docs
+¦   ¦   architecture.md
+¦   ¦   getting_started.md
+¦   ¦   README.md
+¦   ¦   roadmap.md
+¦   ¦   
+¦   +---academy
+¦       +---career_guides
+¦       ¦       career_roadmaps.md
+¦       ¦       README.md
+¦       ¦       
+¦       +---certifications
+¦       ¦       README.md
+¦       ¦       
+¦       +---learning_paths
+¦       ¦       README.md
+¦       ¦       
+¦       +---onboarding
+¦               getting_started.md
+¦               README.md
+¦               
++---ecosystem_engineering
+¦       README.md
+¦       
++---engineering_patterns
+¦   ¦   README.md
+¦   ¦   
+¦   +---agent_patterns
+¦   ¦       README.md
+¦   ¦       
+¦   +---decision_patterns
+¦   ¦       README.md
+¦   ¦       
+¦   +---deployment_patterns
+¦   ¦       README.md
+¦   ¦       
+¦   +---digital_twin_patterns
+¦   ¦       README.md
+¦   ¦       
+¦   +---governance_patterns
+¦   ¦       README.md
+¦   ¦       
+¦   +---knowledge_patterns
+¦   ¦       README.md
+¦   ¦       
+¦   +---mission_patterns
+¦   ¦       README.md
+¦   ¦       
+¦   +---software_engineering_patterns
+¦   ¦       README.md
+¦   ¦       
+¦   +---systems_engineering_patterns
+¦   ¦       README.md
+¦   ¦       
+¦   +---tensor_patterns
+¦           README.md
+¦           
++---faep
+¦   ¦   README.md
+¦   ¦   
+¦   +---academy
+¦   ¦   ¦   academy_master_catalog.md
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---certification_paths
+¦   ¦   ¦       certification_paths.md
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---interview_preparation
+¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---entrepreneurs
+¦   ¦   ¦   ¦       README.md
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---franchise_partners
+¦   ¦   ¦   ¦       README.md
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---investors
+¦   ¦   ¦   ¦       README.md
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---researchers
+¦   ¦   ¦   ¦       README.md
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---scientists
+¦   ¦   ¦   ¦       README.md
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---software_engineers
+¦   ¦   ¦   ¦       README.md
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---students
+¦   ¦   ¦           README.md
+¦   ¦   ¦           
+¦   ¦   +---learning_paths
+¦   ¦   ¦       learning_paths.md
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---onboarding
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---question_banks
+¦   ¦       ¦   README.md
+¦   ¦       ¦   
+¦   ¦       +---digital_twins
+¦   ¦       ¦       README.md
+¦   ¦       ¦       
+¦   ¦       +---faep
+¦   ¦       ¦       README.md
+¦   ¦       ¦       
+¦   ¦       +---ftqc
+¦   ¦       ¦       README.md
+¦   ¦       ¦       
+¦   ¦       +---mit_ocw_quantum
+¦   ¦       ¦       mit_ocw_quantum_qa_bank_v1.md
+¦   ¦       ¦       
+¦   ¦       +---qai
+¦   ¦       ¦       README.md
+¦   ¦       ¦       
+¦   ¦       +---systems_engineering
+¦   ¦               README.md
+¦   ¦               
+¦   +---architecture
+¦   ¦       README.md
+¦   ¦       
+¦   +---control_planes
+¦   ¦       README.md
+¦   ¦       
+¦   +---fabrics
+¦   ¦       README.md
+¦   ¦       
+¦   +---federation
+¦   ¦       README.md
+¦   ¦       
+¦   +---frameworks
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---academy
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---engineering
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---governance
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---innovation
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---operations
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---research
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---startup
+¦   ¦           README.md
+¦   ¦           
+¦   +---governance
+¦   ¦       README.md
+¦   ¦       
+¦   +---knowledge
+¦   ¦       README.md
+¦   ¦       
+¦   +---missions
+¦   ¦       README.md
+¦   ¦       
+¦   +---orchestration
+¦   ¦       README.md
+¦   ¦       
+¦   +---registries
+¦           README.md
+¦           
++---global_campus_mesh
+¦       README.md
+¦       
++---governance
+¦   +---compliance
+¦   +---guidelines
+¦   +---policies
+¦   +---standards
++---images
+¦   ¦   README.md
+¦   ¦   
+¦   +---blueprints
+¦   +---campus
+¦   +---qai
+¦   +---social_posts
++---industry50
+¦       README.md
+¦       
++---innovation_campus
+¦   ¦   README.md
+¦   ¦   
+¦   +---franchise_models
+¦   ¦       franchise_catalog.md
+¦   ¦       README.md
+¦   ¦       
+¦   +---startup_foundry
+¦   ¦   ¦   100_startup_ideas.md
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---acceleration
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---business_models
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---incubation
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---investor_readiness
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---startup_ideas
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---validation
+¦   ¦           README.md
+¦   ¦           
+¦   +---venture_studio
+¦           README.md
+¦           
++---knowledge_graphs
+¦   ¦   README.md
+¦   ¦   
+¦   +---concept_graphs
+¦   ¦       engineering_concepts.md
+¦   ¦       enterprise_concepts.md
+¦   ¦       governance_concepts.md
+¦   ¦       modernization_concepts.md
+¦   ¦       qai_concepts.md
+¦   ¦       README.md
+¦   ¦       
+¦   +---dependency_graphs
+¦   ¦       enterprise_dependencies.md
+¦   ¦       framework_dependencies.md
+¦   ¦       modernization_dependencies.md
+¦   ¦       product_dependencies.md
+¦   ¦       README.md
+¦   ¦       technology_dependencies.md
+¦   ¦       
+¦   +---enterprise_models
+¦   ¦       business_verticals.md
+¦   ¦       capability_planes.md
+¦   ¦       epcrm.md
+¦   ¦       faef.md
+¦   ¦       faep.md
+¦   ¦       governance.md
+¦   ¦       heea.md
+¦   ¦       modernization.md
+¦   ¦       qaitf.md
+¦   ¦       README.md
+¦   ¦       
+¦   +---mit_topics
+¦   ¦       machine_learning.md
+¦   ¦       optimization.md
+¦   ¦       quantum_computing.md
+¦   ¦       quantum_information.md
+¦   ¦       README.md
+¦   ¦       references.md
+¦   ¦       
+¦   +---ontology
+¦   ¦       enterprise_ontology.md
+¦   ¦       modernization_ontology.md
+¦   ¦       product_ontology.md
+¦   ¦       README.md
+¦   ¦       research_ontology.md
+¦   ¦       technology_ontology.md
+¦   ¦       
+¦   +---qai_topics
+¦   ¦       applications.md
+¦   ¦       ftqc.md
+¦   ¦       hybrid_computing.md
+¦   ¦       qagi.md
+¦   ¦       qai_foundations.md
+¦   ¦       qasi.md
+¦   ¦       README.md
+¦   ¦       
+¦   +---theory_mapping
+¦           ai_to_qai.md
+¦           classical_to_ai.md
+¦           engineering_to_products.md
+¦           products_to_modernization.md
+¦           README.md
+¦           theory_to_engineering.md
+¦           
++---labs
+¦   ¦   README.md
+¦   ¦   
+¦   +---autonomous_agents
+¦   +---cloud
+¦   +---digital_twins
+¦   +---machine_learning
+¦   +---optimization
+¦   +---qai
+¦   +---robotics
+¦   +---world_models
++---master_tree
+¦       faep_ecosystem_master_tree.md
+¦       
++---notebooks
+¦   ¦   README.md
+¦   ¦   
+¦   +---advanced
+¦   +---beginner
+¦   +---intermediate
+¦   +---learning
+¦   +---matrix_methods
+¦   +---optimization
+¦   +---quantum
+¦   +---robotics
+¦   +---tensors
++---presentations
+¦   +---pdf
+¦   +---posters
+¦   +---ppt
++---publications
+¦   +---articles
+¦   +---papers
+¦   +---reports
+¦   +---whitepapers
++---qai
+¦   ¦   README.md
+¦   ¦   
+¦   +---algorithms
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---agent
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---graph
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---optimization
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---planning
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---quantum
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---reasoning
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---robotics
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---search
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---semantic
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---tensor
+¦   ¦           README.md
+¦   ¦           
+¦   +---data_structures
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---digital_twins
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---graphs
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---knowledge_graphs
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---quantum
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---robotics
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---semantic
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---tensors
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---world_models
+¦   ¦           README.md
+¦   ¦           
+¦   +---deployment
+¦   +---digital_twins
+¦   +---fabrics
+¦   +---foundations
+¦   ¦       README.md
+¦   ¦       
+¦   +---models
+¦   +---runtimes
+¦   ¦   +---ai_runtime
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---cloud_runtime
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---edge_runtime
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---inference_runtime
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---mission_runtime
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---planning_runtime
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---quantum_runtime
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---robotics_runtime
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---simulation_runtime
+¦   ¦           README.md
+¦   ¦           
+¦   +---world_models
++---qai_engineering
+¦   ¦   README.md
+¦   ¦   
+¦   +---autonomous
+¦   ¦       README.md
+¦   ¦       
+¦   +---cloud
+¦   ¦       README.md
+¦   ¦       
+¦   +---cyber_physical
+¦   ¦       README.md
+¦   ¦       
+¦   +---deployment
+¦   ¦       README.md
+¦   ¦       
+¦   +---edge
+¦   ¦       README.md
+¦   ¦       
+¦   +---enterprise
+¦   ¦       README.md
+¦   ¦       
+¦   +---robotics
+¦           README.md
+¦           
++---references
+¦   ¦   full_tree_sprint18_15Jun26.txt
+¦   ¦   full_tree_sprint18_15Jun26_1.txt
+¦   ¦   README.md
+¦   ¦   
+¦   +---books
+¦   +---mit_ocw
+¦   ¦   ¦   Advanced_NLP.md
+¦   ¦   ¦   Algorithms_For_Inference.md
+¦   ¦   ¦   Complexity_Theory.md
+¦   ¦   ¦   COURSE_TEMPLATE.md
+¦   ¦   ¦   Human_Supervisory_Control.md
+¦   ¦   ¦   Learning_From_Data.md
+¦   ¦   ¦   Lie_Groups.md
+¦   ¦   ¦   Many_Body_Physics.md
+¦   ¦   ¦   Matrix_Calculus.md
+¦   ¦   ¦   Matrix_Methods.md
+¦   ¦   ¦   Modeling_And_Simulation.md
+¦   ¦   ¦   MultiAgent_Learning.md
+¦   ¦   ¦   Nonlinear_Optimization.md
+¦   ¦   ¦   Photonics.md
+¦   ¦   ¦   Quantum_Communication.md
+¦   ¦   ¦   Quantum_Field_Theory.md
+¦   ¦   ¦   README.md
+¦   ¦   ¦   Robotic_Manipulation.md
+¦   ¦   ¦   Sensor_Technologies.md
+¦   ¦   ¦   Statistical_Learning.md
+¦   ¦   ¦   Tensor_Categories.md
+¦   ¦   ¦   Underactuated_Robotics.md
+¦   ¦   ¦   
+¦   ¦   +---complexity
+¦   ¦   +---learning_theory
+¦   ¦   ¦       Advanced_NLP.md
+¦   ¦   ¦       Algorithmic_ML.md
+¦   ¦   ¦       Learning_From_Data.md
+¦   ¦   ¦       Statistical_Learning.md
+¦   ¦   ¦       
+¦   ¦   +---machine_learning
+¦   ¦   +---mathematics
+¦   ¦   ¦       Boolean_Functions.md
+¦   ¦   ¦       Complexity_Theory.md
+¦   ¦   ¦       Lie_Groups.md
+¦   ¦   ¦       Matrix_Calculus.md
+¦   ¦   ¦       Matrix_Methods.md
+¦   ¦   ¦       Tensor_Categories.md
+¦   ¦   ¦       
+¦   ¦   +---optimization
+¦   ¦   ¦       Algorithms_For_Inference.md
+¦   ¦   ¦       Decision_Based_Design.md
+¦   ¦   ¦       Nonlinear_Optimization.md
+¦   ¦   ¦       
+¦   ¦   +---photonics
+¦   ¦   +---quantum
+¦   ¦   ¦       Many_Body_Physics.md
+¦   ¦   ¦       Photonics.md
+¦   ¦   ¦       Quantum_Communication.md
+¦   ¦   ¦       Quantum_Field_Theory.md
+¦   ¦   ¦       
+¦   ¦   +---robotics
+¦   ¦   ¦       Human_Supervisory_Control.md
+¦   ¦   ¦       Robotic_Manipulation.md
+¦   ¦   ¦       Underactuated_Robotics.md
+¦   ¦   ¦       
+¦   ¦   +---systems_engineering
+¦   +---papers
+¦   +---websites
++---research_intelligence
+¦   ¦   README.md
+¦   ¦   
+¦   +---algorithm_candidates
+¦   +---data_structure_candidates
+¦   +---knowledge_mining
+¦   ¦       README.md
+¦   ¦       
+¦   +---maturity_models
+¦   +---model_candidates
+¦   +---patent_candidates
+¦   +---research_opportunities
+¦   ¦   ¦   open_research_questions.md
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---digital_twins
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---ftqc
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---future_systems
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---governance
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---human_sovereignty
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---qai
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---world_models
+¦   ¦           README.md
+¦   ¦           
+¦   +---technology_derivation
+¦   +---theorem_candidates
+¦   +---validation
++---roadmap
+¦   ¦   README.md
+¦   ¦   
+¦   +---epics
+¦   +---sprints
++---samples
+¦   ¦   README.md
+¦   ¦   
+¦   +---api
+¦   +---notebooks
+¦   +---python
++---society50
+¦       README.md
+¦       
++---software_engineering
+¦   ¦   README.md
+¦   ¦   
+¦   +---containers
+¦   +---deployment_patterns
+¦   +---kubernetes
+¦   +---middleware
+¦   +---runtimes
+¦   +---virtual_machines
++---standards
+¦   ¦   README.md
+¦   ¦   
+¦   +---IEEE
+¦   ¦       README.md
+¦   ¦       
+¦   +---INCOSE
+¦   ¦       README.md
+¦   ¦       
+¦   +---ISO
+¦   ¦       README.md
+¦   ¦       
+¦   +---LinuxFoundation
+¦   ¦       README.md
+¦   ¦       
+¦   +---NIST
+¦   ¦       README.md
+¦   ¦       
+¦   +---OMG
+¦   ¦       README.md
+¦   ¦       
+¦   +---OpenTelemetry
+¦   ¦       README.md
+¦   ¦       
+¦   +---OpenUSD
+¦   ¦       README.md
+¦   ¦       
+¦   +---ROS
+¦   ¦       README.md
+¦   ¦       
+¦   +---W3C
+¦           README.md
+¦           
++---student_learning_tracks
+¦   ¦   README.md
+¦   ¦   
+¦   +---advanced
+¦   ¦       README.md
+¦   ¦       
+¦   +---certifications
+¦   ¦       associate.md
+¦   ¦       expert.md
+¦   ¦       foundation.md
+¦   ¦       professional.md
+¦   ¦       README.md
+¦   ¦       research_fellow.md
+¦   ¦       
+¦   +---digital_twin_engineering
+¦   ¦       assessment.md
+¦   ¦       assignments.md
+¦   ¦       career_paths.md
+¦   ¦       certification.md
+¦   ¦       labs.md
+¦   ¦       learning_objectives.md
+¦   ¦       projects.md
+¦   ¦       README.md
+¦   ¦       recommended_books.md
+¦   ¦       references.md
+¦   ¦       roadmap.md
+¦   ¦       syllabus.md
+¦   ¦       
+¦   +---faep_ecosystem_engineering
+¦   ¦       assessment.md
+¦   ¦       assignments.md
+¦   ¦       career_paths.md
+¦   ¦       certification.md
+¦   ¦       labs.md
+¦   ¦       learning_objectives.md
+¦   ¦       projects.md
+¦   ¦       README.md
+¦   ¦       recommended_books.md
+¦   ¦       references.md
+¦   ¦       roadmap.md
+¦   ¦       syllabus.md
+¦   ¦       
+¦   +---foundations
+¦   ¦       README.md
+¦   ¦       
+¦   +---ftqc_engineering
+¦   ¦       assessment.md
+¦   ¦       assignments.md
+¦   ¦       career_paths.md
+¦   ¦       certification.md
+¦   ¦       labs.md
+¦   ¦       learning_objectives.md
+¦   ¦       projects.md
+¦   ¦       README.md
+¦   ¦       recommended_books.md
+¦   ¦       references.md
+¦   ¦       roadmap.md
+¦   ¦       syllabus.md
+¦   ¦       
+¦   +---human_sovereignty_engineering
+¦   ¦       assessment.md
+¦   ¦       assignments.md
+¦   ¦       career_paths.md
+¦   ¦       certification.md
+¦   ¦       labs.md
+¦   ¦       learning_objectives.md
+¦   ¦       projects.md
+¦   ¦       README.md
+¦   ¦       recommended_books.md
+¦   ¦       references.md
+¦   ¦       roadmap.md
+¦   ¦       syllabus.md
+¦   ¦       
+¦   +---intermediate
+¦   ¦       README.md
+¦   ¦       
+¦   +---mit_path
+¦   ¦   ¦   capstone_project.md
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---machine_learning
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---mathematics
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---optimization
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---quantum
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---robotics
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---systems_engineering
+¦   ¦           README.md
+¦   ¦           
+¦   +---qagi_engineering
+¦   ¦       assessment.md
+¦   ¦       assignments.md
+¦   ¦       career_paths.md
+¦   ¦       certification.md
+¦   ¦       labs.md
+¦   ¦       learning_objectives.md
+¦   ¦       projects.md
+¦   ¦       README.md
+¦   ¦       recommended_books.md
+¦   ¦       references.md
+¦   ¦       roadmap.md
+¦   ¦       syllabus.md
+¦   ¦       
+¦   +---qai_architecture_engineering
+¦   ¦       assessment.md
+¦   ¦       assignments.md
+¦   ¦       career_paths.md
+¦   ¦       certification.md
+¦   ¦       labs.md
+¦   ¦       learning_objectives.md
+¦   ¦       projects.md
+¦   ¦       README.md
+¦   ¦       recommended_books.md
+¦   ¦       references.md
+¦   ¦       roadmap.md
+¦   ¦       syllabus.md
+¦   ¦       
+¦   +---qai_path
+¦   ¦   ¦   capstone_project.md
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---algorithms
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---architecture
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---data_structures
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---engineering
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---patterns
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---runtimes
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---standards
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---technology
+¦   ¦           README.md
+¦   ¦           
+¦   +---qai_quantum_electronics
+¦   ¦       advanced_packaging.md
+¦   ¦       assessment.md
+¦   ¦       assignments.md
+¦   ¦       career_paths.md
+¦   ¦       career_roadmap.md
+¦   ¦       certification.md
+¦   ¦       chip_packaging.md
+¦   ¦       control_electronics.md
+¦   ¦       co_packaged_optics.md
+¦   ¦       cryogenics.md
+¦   ¦       cryogenic_electronics.md
+¦   ¦       fabrication.md
+¦   ¦       fault_tolerant_hardware.md
+¦   ¦       future_research.md
+¦   ¦       industry_landscape.md
+¦   ¦       labs.md
+¦   ¦       laser_systems.md
+¦   ¦       learning_objectives.md
+¦   ¦       microwave_engineering.md
+¦   ¦       nano_fabrication.md
+¦   ¦       neutral_atom_computing.md
+¦   ¦       packaging.md
+¦   ¦       photonics.md
+¦   ¦       photonic_quantum_computing.md
+¦   ¦       projects.md
+¦   ¦       QAI_Quantum_Electronics_Engineering_Academy_Syllabus_v1.docx
+¦   ¦       quantum_control.md
+¦   ¦       quantum_devices.md
+¦   ¦       quantum_interconnects.md
+¦   ¦       quantum_materials.md
+¦   ¦       quantum_measurement.md
+¦   ¦       quantum_processor_design.md
+¦   ¦       quantum_system_integration.md
+¦   ¦       qubit_technologies.md
+¦   ¦       README.md
+¦   ¦       readout_electronics.md
+¦   ¦       recommended_books.md
+¦   ¦       references.md
+¦   ¦       rf_quantum_systems.md
+¦   ¦       roadmap.md
+¦   ¦       semiconductor_quantum.md
+¦   ¦       silicon_spin_qubits.md
+¦   ¦       spintronics.md
+¦   ¦       superconducting_qubits.md
+¦   ¦       syllabus.md
+¦   ¦       trapped_ion_systems.md
+¦   ¦       
+¦   +---qasi_engineering
+¦   ¦       assessment.md
+¦   ¦       assignments.md
+¦   ¦       career_paths.md
+¦   ¦       certification.md
+¦   ¦       labs.md
+¦   ¦       learning_objectives.md
+¦   ¦       projects.md
+¦   ¦       README.md
+¦   ¦       recommended_books.md
+¦   ¦       references.md
+¦   ¦       roadmap.md
+¦   ¦       syllabus.md
+¦   ¦       
+¦   +---research
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---benchmarking
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---experiments
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---paper_reading
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---paper_writing
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---patents
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---publications
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---validation
+¦   ¦           README.md
+¦   ¦           
+¦   +---startup_engineering
+¦   ¦   ¦   assessment.md
+¦   ¦   ¦   assignments.md
+¦   ¦   ¦   career_paths.md
+¦   ¦   ¦   certification.md
+¦   ¦   ¦   labs.md
+¦   ¦   ¦   learning_objectives.md
+¦   ¦   ¦   projects.md
+¦   ¦   ¦   README.md
+¦   ¦   ¦   recommended_books.md
+¦   ¦   ¦   references.md
+¦   ¦   ¦   roadmap.md
+¦   ¦   ¦   syllabus.md
+¦   ¦   ¦   
+¦   ¦   +---business_models
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---commercialization
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---fundraising
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---go_to_market
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---ideation
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---ip_strategy
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---validation
+¦   ¦           README.md
+¦   ¦           
+¦   +---world_model_engineering
+¦           assessment.md
+¦           assignments.md
+¦           career_paths.md
+¦           certification.md
+¦           labs.md
+¦           learning_objectives.md
+¦           projects.md
+¦           README.md
+¦           recommended_books.md
+¦           references.md
+¦           roadmap.md
+¦           syllabus.md
+¦           
++---systems_engineering
+¦   ¦   README.md
+¦   ¦   
+¦   +---axiomatic_design
+¦   +---decision_based_design
+¦   +---incose
+¦   +---lean
+¦   +---mission_engineering
+¦   +---set_based_design
+¦   +---supervisory_control
+¦   +---uaf
++---technology
+¦   ¦   README.md
+¦   ¦   
+¦   +---ai
+¦   ¦       README.md
+¦   ¦       
+¦   +---cloud
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---AWS
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---Azure
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---GoogleCloud
+¦   ¦           README.md
+¦   ¦           
+¦   +---containers
+¦   ¦       README.md
+¦   ¦       
+¦   +---databases
+¦   ¦       README.md
+¦   ¦       
+¦   +---devops
+¦   ¦       README.md
+¦   ¦       
+¦   +---edge
+¦   ¦       README.md
+¦   ¦       
+¦   +---hardware
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---AMD
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---Intel
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---NVIDIA
+¦   ¦           README.md
+¦   ¦           
+¦   +---networking
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---5G
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---6G
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---Ethernet
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---Software_Defined_Networking
+¦   ¦           README.md
+¦   ¦           
+¦   +---operating_systems
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---Linux
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---Windows
+¦   ¦           README.md
+¦   ¦           
+¦   +---orchestration
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---Docker
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---Kubernetes
+¦   ¦           README.md
+¦   ¦           
+¦   +---programming_languages
+¦   ¦       README.md
+¦   ¦       
+¦   +---quantum
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---Photonics
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---Quantum_Communication
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---Quantum_Computing
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---Quantum_Networks
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---Quantum_Sensing
+¦   ¦           README.md
+¦   ¦           
+¦   +---robotics
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---ROS2
+¦   ¦           README.md
+¦   ¦           
+¦   +---simulation
+¦           README.md
+¦           
++---technology_portfolio
+¦   ¦   README.md
+¦   ¦   
+¦   +---commercialization
+¦   ¦       README.md
+¦   ¦       
+¦   +---horizons
+¦   ¦       README.md
+¦   ¦       
+¦   +---investment
+¦   ¦       README.md
+¦   ¦       
+¦   +---products
+¦   ¦       README.md
+¦   ¦       
+¦   +---research
+¦   ¦       README.md
+¦   ¦       
+¦   +---roadmap
+¦   ¦       README.md
+¦   ¦       
+¦   +---scoring
+¦           README.md
+¦           
++---templates
+¦   ¦   ALGORITHM_TEMPLATE.md
+¦   ¦   COURSE_TEMPLATE.md
+¦   ¦   DATA_STRUCTURE_TEMPLATE.md
+¦   ¦   FRAMEWORK_TEMPLATE.md
+¦   ¦   KNOWLEDGE_ASSET_TEMPLATE.md
+¦   ¦   PLATFORM_TEMPLATE.md
+¦   ¦   README.md
+¦   ¦   RUNTIME_TEMPLATE.md
+¦   ¦   STANDARD_TEMPLATE.md
+¦   ¦   
+¦   +---blueprints
+¦   +---markdown
+¦   +---research
+¦   +---sprints
++---tools
+¦       create-faep-academy-sprint19.ps1
+¦       create-faep-academy-structure.ps1
+¦       create-shared-folders-files.ps1
+¦       create-shared-structure.ps1
+¦       create-starter-files.ps1
+¦       
++---tutorials
+    ¦   README.md
+    ¦   
+    +---mit
+    ¦   +---learning
+    ¦   +---matrix_methods
+    ¦   +---optimization
+    ¦   +---robotics
+    +---qai
+        +---faep
+        +---tensors
+        +---world_models
