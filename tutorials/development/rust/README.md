@@ -1,0 +1,6 @@
+# rust
+
+> FAEP Education
+
+> TODO
+
