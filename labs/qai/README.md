@@ -1,6 +1,0 @@
-# qai
-
-> FAEP Education
-
-> TODO
-
