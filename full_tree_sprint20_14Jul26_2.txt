@@ -1,0 +1,4063 @@
+Folder PATH listing
+Volume serial number is 00000019 60BA:9B53
+E:.
+|   .gitignore
+|   ARCHITECTURE.md
+|   CONTRIBUTING.md
+|   Create_Course_Navigation_Pages.ps1
+|   ecosystem_intelligence_folder_structure_generator.ps1
+|   FAEP_Academy_Learning_Layer_Bootstrap.ps1
+|   full_tree_sprint20_14Jul26_1.txt
+|   full_tree_sprint20_14Jul26_2.txt
+|   Learning_Tracks_Roles_Course_Templates.ps1
+|   qai_platform_engineering_folder_generator.ps1
+|   README.md
+|   ROADMAP.md
+|   START_HERE.md
+|   
++---academy
+|   |   certifications.md
+|   |   competencies.md
+|   |   course_catalog.md
+|   |   faq.md
+|   |   getting_started.md
+|   |   learning_paths.md
+|   |   README.md
+|   |   roadmap.md
+|   |   
+|   +---assets
+|   |   +---icons
+|   |   +---images
+|   |   \---templates
+|   +---courses
+|   |   +---artificial_intelligence
+|   |   |       README.md
+|   |   |       
+|   |   +---cyber_physical_systems
+|   |   |       README.md
+|   |   |       
+|   |   +---digital_twins
+|   |   |       README.md
+|   |   |       
+|   |   +---ecosystem_intelligence
+|   |   |       README.md
+|   |   |       
+|   |   +---enterprise_engineering
+|   |   |       README.md
+|   |   |       
+|   |   +---foundations
+|   |   |       README.md
+|   |   |       
+|   |   +---hybrid_quantum_systems
+|   |   |       README.md
+|   |   |       
+|   |   +---innovation
+|   |   |       README.md
+|   |   |       
+|   |   +---intelligent_systems
+|   |   |       README.md
+|   |   |       
+|   |   +---mission_systems
+|   |   |       README.md
+|   |   |       
+|   |   +---professional_development
+|   |   |       README.md
+|   |   |       
+|   |   +---qai_platform_engineering
+|   |   |       README.md
+|   |   |       
+|   |   +---quantum_computing
+|   |   |       README.md
+|   |   |       
+|   |   +---research_engineering
+|   |   |       README.md
+|   |   |       
+|   |   +---robotics
+|   |   |       README.md
+|   |   |       
+|   |   \---space_systems
+|   |           README.md
+|   |           
+|   +---learning_paths
+|   +---learning_tracks
+|   |       educator.md
+|   |       enterprise_architect.md
+|   |       researcher.md
+|   |       startup_founder.md
+|   |       student.md
+|   |       working_professional.md
+|   |       
+|   +---roles
+|   |       ai_engineer.md
+|   |       digital_twin_engineer.md
+|   |       enterprise_architect.md
+|   |       mission_systems_engineer.md
+|   |       platform_engineer.md
+|   |       quantum_engineer.md
+|   |       research_scientist.md
+|   |       robotics_engineer.md
+|   |       solution_architect.md
+|   |       space_systems_engineer.md
+|   |       startup_founder.md
+|   |       systems_engineer.md
+|   |       technology_consultant.md
+|   |       
+|   \---templates
+|           competency_matrix_template.md
+|           course_index_template.md
+|           course_plan_template.md
+|           lab_guide_template.md
+|           learning_path_template.md
+|           progress_tracker_template.md
+|           project_template.md
+|           quiz_template.md
+|           syllabus_template.md
+|           
++---ai
+|       README.md
+|       
++---architecture_patterns
+|       README.md
+|       
++---assets
+|   |   README.md
+|   |   
+|   +---banners
+|   +---covers
+|   +---icons
+|   \---logos
++---blueprints
+|   |   campus_blueprint.md
+|   |   README.md
+|   |   
+|   +---campus
+|   +---cloud40
+|   +---industry50
+|   +---qai
+|   \---society50
++---case_studies
+|       README.md
+|       
++---cloud40
+|       README.md
+|       
++---community
+|   |   README.md
+|   |   
+|   +---contributors
+|   +---expert_guidance
+|   |   |   lessons_learned.md
+|   |   |   mentor_notes.md
+|   |   |   README.md
+|   |   |   
+|   |   +---careers
+|   |   |       README.md
+|   |   |       
+|   |   +---digital_twins
+|   |   |       README.md
+|   |   |       
+|   |   +---ftqc
+|   |   |       README.md
+|   |   |       
+|   |   +---governance
+|   |   |       README.md
+|   |   |       
+|   |   +---investors
+|   |   |       README.md
+|   |   |       
+|   |   +---qai
+|   |   |       README.md
+|   |   |       
+|   |   +---research
+|   |   |       README.md
+|   |   |       
+|   |   \---startups
+|   |           README.md
+|   |           
+|   \---projects
++---diagrams
+|   |   README.md
+|   |   
+|   +---campus
+|   +---cloud40
+|   +---faep
+|   +---industry50
+|   +---qai
+|   \---society50
++---digital_twins
+|   |   README.md
+|   |   
+|   +---ai_qai_twins
+|   |       README.md
+|   |       
+|   +---ecosystem_twins
+|   |       README.md
+|   |       
+|   +---enterprise_twins
+|   |       README.md
+|   |       
+|   +---human_twins
+|   |       README.md
+|   |       
+|   +---infrastructure_twins
+|   |       README.md
+|   |       
+|   +---knowledge_twins
+|   |       README.md
+|   |       
+|   +---process_twins
+|   |       README.md
+|   |       
+|   +---product_twins
+|   |       README.md
+|   |       
+|   +---scientific_twins
+|   |       README.md
+|   |       
+|   \---synchronization
+|           README.md
+|           
++---docs
+|   |   architecture.md
+|   |   getting_started.md
+|   |   Master Asset Catalog.xlsx
+|   |   README.md
+|   |   roadmap.md
+|   |   
+|   +---academy
+|   |   +---career_guides
+|   |   |       career_roadmaps.md
+|   |   |       README.md
+|   |   |       
+|   |   +---certifications
+|   |   |       README.md
+|   |   |       
+|   |   +---learning_paths
+|   |   |       README.md
+|   |   |       
+|   |   \---onboarding
+|   |           getting_started.md
+|   |           README.md
+|   |           
+|   +---manuals
+|   +---reports
+|   +---standards
+|   \---whitepapers
++---ecosystem_engineering
+|       README.md
+|       
++---engineering_patterns
+|   |   README.md
+|   |   
+|   +---agent_patterns
+|   |       README.md
+|   |       
+|   +---decision_patterns
+|   |       README.md
+|   |       
+|   +---deployment_patterns
+|   |       README.md
+|   |       
+|   +---digital_twin_patterns
+|   |       README.md
+|   |       
+|   +---governance_patterns
+|   |       README.md
+|   |       
+|   +---knowledge_patterns
+|   |       README.md
+|   |       
+|   +---mission_patterns
+|   |       README.md
+|   |       
+|   +---software_engineering_patterns
+|   |       README.md
+|   |       
+|   +---systems_engineering_patterns
+|   |       README.md
+|   |       
+|   \---tensor_patterns
+|           README.md
+|           
++---enterprise_intelligence
+|   |   README.md
+|   |   
+|   +---agentic_ai
+|   |       README.md
+|   |       
+|   +---augmentation
+|   |       README.md
+|   |       
+|   +---automation
+|   |       README.md
+|   |       
+|   +---decision_intelligence
+|   |       README.md
+|   |       
+|   +---enterprise_copilots
+|   |       README.md
+|   |       
+|   +---enterprise_memory
+|   |       README.md
+|   |       
+|   +---enterprise_reasoning
+|   |       README.md
+|   |       
+|   +---multi_agent_systems
+|   |       README.md
+|   |       
+|   \---world_models
+|           README.md
+|           
++---faep
+|   |   README.md
+|   |   
+|   +---academy
+|   |   |   academy_master_catalog.md
+|   |   |   README.md
+|   |   |   
+|   |   +---certification_paths
+|   |   |       certification_paths.md
+|   |   |       README.md
+|   |   |       
+|   |   +---interview_preparation
+|   |   |   |   README.md
+|   |   |   |   
+|   |   |   +---entrepreneurs
+|   |   |   |       README.md
+|   |   |   |       
+|   |   |   +---franchise_partners
+|   |   |   |       README.md
+|   |   |   |       
+|   |   |   +---investors
+|   |   |   |       README.md
+|   |   |   |       
+|   |   |   +---researchers
+|   |   |   |       README.md
+|   |   |   |       
+|   |   |   +---scientists
+|   |   |   |       README.md
+|   |   |   |       
+|   |   |   +---software_engineers
+|   |   |   |       README.md
+|   |   |   |       
+|   |   |   \---students
+|   |   |           README.md
+|   |   |           
+|   |   +---learning_paths
+|   |   |       learning_paths.md
+|   |   |       README.md
+|   |   |       
+|   |   +---onboarding
+|   |   |       README.md
+|   |   |       
+|   |   \---question_banks
+|   |       |   README.md
+|   |       |   
+|   |       +---digital_twins
+|   |       |       README.md
+|   |       |       
+|   |       +---faep
+|   |       |       README.md
+|   |       |       
+|   |       +---ftqc
+|   |       |       README.md
+|   |       |       
+|   |       +---mit_ocw_quantum
+|   |       |       mit_ocw_quantum_qa_bank_v1.md
+|   |       |       
+|   |       +---qai
+|   |       |       README.md
+|   |       |       
+|   |       \---systems_engineering
+|   |               README.md
+|   |               
+|   +---architecture
+|   |       README.md
+|   |       
+|   +---control_planes
+|   |       README.md
+|   |       
+|   +---fabrics
+|   |       README.md
+|   |       
+|   +---federation
+|   |       README.md
+|   |       
+|   +---frameworks
+|   |   |   README.md
+|   |   |   
+|   |   +---academy
+|   |   |       README.md
+|   |   |       
+|   |   +---engineering
+|   |   |       README.md
+|   |   |       
+|   |   +---governance
+|   |   |       README.md
+|   |   |       
+|   |   +---innovation
+|   |   |       README.md
+|   |   |       
+|   |   +---operations
+|   |   |       README.md
+|   |   |       
+|   |   +---research
+|   |   |       README.md
+|   |   |       
+|   |   \---startup
+|   |           README.md
+|   |           
+|   +---governance
+|   |       README.md
+|   |       
+|   +---knowledge
+|   |       README.md
+|   |       
+|   +---missions
+|   |       README.md
+|   |       
+|   +---orchestration
+|   |       README.md
+|   |       
+|   \---registries
+|           README.md
+|           
++---global_campus_mesh
+|       README.md
+|       
++---governance
+|   +---compliance
+|   +---guidelines
+|   +---policies
+|   \---standards
++---images
+|   |   README.md
+|   |   
+|   +---architecture
+|   +---blueprints
+|   +---campus
+|   +---concepts
+|   +---diagrams
+|   +---labs
+|   +---products
+|   +---qai
+|   +---screenshots
+|   \---social_posts
++---industry50
+|       README.md
+|       
++---innovation_campus
+|   |   README.md
+|   |   
+|   +---franchise_models
+|   |       franchise_catalog.md
+|   |       README.md
+|   |       
+|   +---startup_foundry
+|   |   |   100_startup_ideas.md
+|   |   |   README.md
+|   |   |   
+|   |   +---acceleration
+|   |   |       README.md
+|   |   |       
+|   |   +---business_models
+|   |   |       README.md
+|   |   |       
+|   |   +---incubation
+|   |   |       README.md
+|   |   |       
+|   |   +---investor_readiness
+|   |   |       README.md
+|   |   |       
+|   |   +---startup_ideas
+|   |   |       README.md
+|   |   |       
+|   |   \---validation
+|   |           README.md
+|   |           
+|   \---venture_studio
+|           README.md
+|           
++---knowledge_graphs
+|   |   README.md
+|   |   
+|   +---concept_graphs
+|   |       engineering_concepts.md
+|   |       enterprise_concepts.md
+|   |       governance_concepts.md
+|   |       modernization_concepts.md
+|   |       qai_concepts.md
+|   |       README.md
+|   |       
+|   +---dependency_graphs
+|   |       enterprise_dependencies.md
+|   |       framework_dependencies.md
+|   |       modernization_dependencies.md
+|   |       product_dependencies.md
+|   |       README.md
+|   |       technology_dependencies.md
+|   |       
+|   +---enterprise_models
+|   |       business_verticals.md
+|   |       capability_planes.md
+|   |       epcrm.md
+|   |       faef.md
+|   |       faep.md
+|   |       governance.md
+|   |       heea.md
+|   |       modernization.md
+|   |       qaitf.md
+|   |       README.md
+|   |       
+|   +---mit_topics
+|   |       machine_learning.md
+|   |       optimization.md
+|   |       quantum_computing.md
+|   |       quantum_information.md
+|   |       README.md
+|   |       references.md
+|   |       
+|   +---ontology
+|   |       enterprise_ontology.md
+|   |       modernization_ontology.md
+|   |       product_ontology.md
+|   |       README.md
+|   |       research_ontology.md
+|   |       technology_ontology.md
+|   |       
+|   +---qai_topics
+|   |       applications.md
+|   |       ftqc.md
+|   |       hybrid_computing.md
+|   |       qagi.md
+|   |       qai_foundations.md
+|   |       qasi.md
+|   |       README.md
+|   |       
+|   \---theory_mapping
+|           ai_to_qai.md
+|           classical_to_ai.md
+|           engineering_to_products.md
+|           products_to_modernization.md
+|           README.md
+|           theory_to_engineering.md
+|           
++---labs
+|   |   README.md
+|   |   
+|   +---accelerator_kits
+|   |       README.md
+|   |       
+|   +---autonomous_agents
+|   |       README.md
+|   |       
+|   +---capstone_projects
+|   |       README.md
+|   |       
+|   +---cloud
+|   |       README.md
+|   |       
+|   +---co_design
+|   |       README.md
+|   |       
+|   +---cyber_physical_systems
+|   |       README.md
+|   |       
+|   +---digital_twins
+|   |       README.md
+|   |       
+|   +---domain_based
+|   |       README.md
+|   |       
+|   +---drones
+|   |       README.md
+|   |       
+|   +---enterprise_intelligence
+|   |       README.md
+|   |       
+|   +---federated_labs
+|   |       README.md
+|   |       
+|   +---hpc
+|   |       README.md
+|   |       
+|   +---hybrid_runtime
+|   |       README.md
+|   |       
+|   +---industry_solutions
+|   |       README.md
+|   |       
+|   +---knowledge_graphs
+|   |       README.md
+|   |       
+|   +---machine_learning
+|   |       README.md
+|   |       
+|   +---missions
+|   |       README.md
+|   |       
+|   +---optimization
+|   |       README.md
+|   |       
+|   +---qai_applied_research_lab
+|   |       README.md
+|   |       
+|   +---qai_computing_foundations
+|   |       README.md
+|   |       
+|   +---qai_frameworks
+|   |       README.md
+|   |       
+|   +---robotics
+|   |       README.md
+|   |       
+|   +---role_based
+|   |       README.md
+|   |       
+|   +---security
+|   |       README.md
+|   |       
+|   +---space_systems
+|   |       README.md
+|   |       
+|   +---startup_labs
+|   |       README.md
+|   |       
+|   +---validation
+|   |       README.md
+|   |       
+|   \---world_models
+|           README.md
+|           
++---master_tree
+|       faep_ecosystem_master_tree.md
+|       
++---notebooks
+|   |   README.md
+|   |   
+|   +---advanced
+|   +---beginner
+|   +---intermediate
+|   +---learning
+|   +---matrix_methods
+|   +---optimization
+|   +---quantum
+|   +---robotics
+|   \---tensors
++---presentations
+|   +---pdf
+|   +---posters
+|   \---ppt
++---professional_development
+|   |   README.md
+|   |   
+|   +---career_pathways
+|   |   |   README.md
+|   |   |   
+|   |   +---architects
+|   |   |       README.md
+|   |   |       
+|   |   +---consultants
+|   |   |       README.md
+|   |   |       
+|   |   +---early_career
+|   |   |       README.md
+|   |   |       
+|   |   +---entrepreneurs
+|   |   |       README.md
+|   |   |       
+|   |   +---executives
+|   |   |       README.md
+|   |   |       
+|   |   +---experienced_engineers
+|   |   |       README.md
+|   |   |       
+|   |   +---graduates
+|   |   |       README.md
+|   |   |       
+|   |   +---researchers
+|   |   |       README.md
+|   |   |       
+|   |   +---students
+|   |   |       README.md
+|   |   |       
+|   |   \---technical_leaders
+|   |           README.md
+|   |           
+|   +---chartered_and_licensing
+|   |   |   README.md
+|   |   |   
+|   |   +---australia
+|   |   |   |   README.md
+|   |   |   |   
+|   |   |   +---acs
+|   |   |   |       README.md
+|   |   |   |       
+|   |   |   \---engineers_australia
+|   |   |           README.md
+|   |   |           
+|   |   +---canada
+|   |   |   |   README.md
+|   |   |   |   
+|   |   |   +---apega
+|   |   |   |       README.md
+|   |   |   |       
+|   |   |   +---cips
+|   |   |   |       README.md
+|   |   |   |       
+|   |   |   +---engineers_bc
+|   |   |   |       README.md
+|   |   |   |       
+|   |   |   +---engineers_canada
+|   |   |   |       README.md
+|   |   |   |       
+|   |   |   +---oiq
+|   |   |   |       README.md
+|   |   |   |       
+|   |   |   +---peo
+|   |   |   |       README.md
+|   |   |   |       
+|   |   |   \---professional_engineer
+|   |   |           README.md
+|   |   |           
+|   |   +---international
+|   |   |   |   README.md
+|   |   |   |   
+|   |   |   +---dublin_accord
+|   |   |   |       README.md
+|   |   |   |       
+|   |   |   +---mobility
+|   |   |   |       README.md
+|   |   |   |       
+|   |   |   +---mutual_recognition
+|   |   |   |       README.md
+|   |   |   |       
+|   |   |   +---sydney_accord
+|   |   |   |       README.md
+|   |   |   |       
+|   |   |   \---washington_accord
+|   |   |           README.md
+|   |   |           
+|   |   +---united_kingdom
+|   |   |   |   README.md
+|   |   |   |   
+|   |   |   +---engineering_council
+|   |   |   |       README.md
+|   |   |   |       
+|   |   |   +---ice
+|   |   |   |       README.md
+|   |   |   |       
+|   |   |   +---iet
+|   |   |   |       README.md
+|   |   |   |       
+|   |   |   \---imeche
+|   |   |           README.md
+|   |   |           
+|   |   \---united_states
+|   |       |   README.md
+|   |       |   
+|   |       +---california
+|   |       |       README.md
+|   |       |       
+|   |       +---ncees
+|   |       |       README.md
+|   |       |       
+|   |       +---other_states
+|   |       |       README.md
+|   |       |       
+|   |       +---texas
+|   |       |       README.md
+|   |       |       
+|   |       \---washington
+|   |               README.md
+|   |               
+|   +---competency_frameworks
+|   |   |   README.md
+|   |   |   
+|   |   +---ai_engineering
+|   |   |       README.md
+|   |   |       
+|   |   +---communication
+|   |   |       README.md
+|   |   |       
+|   |   +---engineering_competencies
+|   |   |       README.md
+|   |   |       
+|   |   +---enterprise_architecture
+|   |   |       README.md
+|   |   |       
+|   |   +---ethics
+|   |   |       README.md
+|   |   |       
+|   |   +---lifelong_learning
+|   |   |       README.md
+|   |   |       
+|   |   +---quantum_engineering
+|   |   |       README.md
+|   |   |       
+|   |   +---software_engineering
+|   |   |       README.md
+|   |   |       
+|   |   +---systems_engineering
+|   |   |       README.md
+|   |   |       
+|   |   \---technical_leadership
+|   |           README.md
+|   |           
+|   +---continuing_professional_development
+|   |   |   README.md
+|   |   |   
+|   |   +---annual_reviews
+|   |   |       README.md
+|   |   |       
+|   |   +---conference_participation
+|   |   |       README.md
+|   |   |       
+|   |   +---cpd_planning
+|   |   |       README.md
+|   |   |       
+|   |   +---learning_journals
+|   |   |       README.md
+|   |   |       
+|   |   +---mentoring
+|   |   |       README.md
+|   |   |       
+|   |   +---publications
+|   |   |       README.md
+|   |   |       
+|   |   +---technical_training
+|   |   |       README.md
+|   |   |       
+|   |   \---volunteering
+|   |           README.md
+|   |           
+|   +---fellowships
+|   |   |   README.md
+|   |   |   
+|   |   +---acs_fellow
+|   |   |       README.md
+|   |   |       
+|   |   +---cips_fellow
+|   |   |       README.md
+|   |   |       
+|   |   +---engineers_australia_fellow
+|   |   |       README.md
+|   |   |       
+|   |   +---ieee_fellow
+|   |   |       README.md
+|   |   |       
+|   |   +---incose_fellow
+|   |   |       README.md
+|   |   |       
+|   |   \---professional_recognition
+|   |           README.md
+|   |           
+|   +---global_frameworks
+|   |   |   README.md
+|   |   |   
+|   |   +---engineering_competency_models
+|   |   |       README.md
+|   |   |       
+|   |   +---engineering_ethics
+|   |   |       README.md
+|   |   |       
+|   |   +---future_engineering
+|   |   |       README.md
+|   |   |       
+|   |   +---industry_5
+|   |   |       README.md
+|   |   |       
+|   |   +---society_5
+|   |   |       README.md
+|   |   |       
+|   |   +---sustainability
+|   |   |       README.md
+|   |   |       
+|   |   \---washington_accord
+|   |           README.md
+|   |           
+|   +---interview_preparation
+|   |   |   README.md
+|   |   |   
+|   |   +---behavioural_questions
+|   |   |       README.md
+|   |   |       
+|   |   +---chartered_interviews
+|   |   |       README.md
+|   |   |       
+|   |   +---competency_interviews
+|   |   |       README.md
+|   |   |       
+|   |   +---peer_reviews
+|   |   |       README.md
+|   |   |       
+|   |   \---technical_presentations
+|   |           README.md
+|   |           
+|   +---mentoring
+|   |   |   README.md
+|   |   |   
+|   |   +---coaching
+|   |   |       README.md
+|   |   |       
+|   |   +---mentees
+|   |   |       README.md
+|   |   |       
+|   |   +---mentors
+|   |   |       README.md
+|   |   |       
+|   |   +---peer_learning
+|   |   |       README.md
+|   |   |       
+|   |   \---study_groups
+|   |           README.md
+|   |           
+|   +---portfolio_development
+|   |   |   README.md
+|   |   |   
+|   |   +---architecture_portfolio
+|   |   |       README.md
+|   |   |       
+|   |   +---github_portfolio
+|   |   |       README.md
+|   |   |       
+|   |   +---patents
+|   |   |       README.md
+|   |   |       
+|   |   +---presentations
+|   |   |       README.md
+|   |   |       
+|   |   +---project_evidence
+|   |   |       README.md
+|   |   |       
+|   |   +---research_portfolio
+|   |   |       README.md
+|   |   |       
+|   |   +---technical_writing
+|   |   |       README.md
+|   |   |       
+|   |   \---whitepapers
+|   |           README.md
+|   |           
+|   +---professional_memberships
+|   |   |   README.md
+|   |   |   
+|   |   +---acm
+|   |   |       README.md
+|   |   |       
+|   |   +---acs
+|   |   |       README.md
+|   |   |       
+|   |   +---cips
+|   |   |       README.md
+|   |   |       
+|   |   +---engineers_australia
+|   |   |       README.md
+|   |   |       
+|   |   +---ieee
+|   |   |       README.md
+|   |   |       
+|   |   +---iet
+|   |   |       README.md
+|   |   |       
+|   |   +---incose
+|   |   |       README.md
+|   |   |       
+|   |   +---isaca
+|   |   |       README.md
+|   |   |       
+|   |   +---isc2
+|   |   |       README.md
+|   |   |       
+|   |   \---pmi
+|   |           README.md
+|   |           
+|   \---templates
+|           career_roadmap_template.md
+|           competency_matrix_template.md
+|           cpd_plan_template.md
+|           interview_checklist.md
+|           mentoring_plan.md
+|           portfolio_template.md
+|           professional_development_plan.md
+|           README.md
+|           
++---publications
+|   +---articles
+|   +---papers
+|   +---reports
+|   \---whitepapers
++---qai
+|   |   README.md
+|   |   
+|   +---algorithms
+|   |   |   README.md
+|   |   |   
+|   |   +---agent
+|   |   |       README.md
+|   |   |       
+|   |   +---graph
+|   |   |       README.md
+|   |   |       
+|   |   +---hybrid_quantum_algorithms
+|   |   |       README.md
+|   |   |       
+|   |   +---optimization
+|   |   |       README.md
+|   |   |       
+|   |   +---planning
+|   |   |       README.md
+|   |   |       
+|   |   +---projected_quantum_kernels
+|   |   |       README.md
+|   |   |       
+|   |   +---quantum
+|   |   |       README.md
+|   |   |       
+|   |   +---quantum_enhanced_mcmc
+|   |   |       README.md
+|   |   |       
+|   |   +---quantum_graph_algorithms
+|   |   |       README.md
+|   |   |       
+|   |   +---quantum_kernel_methods
+|   |   |       README.md
+|   |   |       
+|   |   +---quantum_kolmogorov_arnold_networks
+|   |   |       README.md
+|   |   |       
+|   |   +---quantum_reservoir_computing
+|   |   |       README.md
+|   |   |       
+|   |   +---reasoning
+|   |   |       README.md
+|   |   |       
+|   |   +---robotics
+|   |   |       README.md
+|   |   |       
+|   |   +---search
+|   |   |       README.md
+|   |   |       
+|   |   +---semantic
+|   |   |       README.md
+|   |   |       
+|   |   +---tensor
+|   |   |       README.md
+|   |   |       
+|   |   \---tensor_network_algorithms
+|   |           README.md
+|   |           
+|   +---atlas
+|   |   |   README.md
+|   |   |   
+|   |   +---algorithms
+|   |   |       README.md
+|   |   |       
+|   |   +---applications
+|   |   |       README.md
+|   |   |       
+|   |   +---computing
+|   |   |       README.md
+|   |   |       
+|   |   +---emerging_technologies
+|   |   |       README.md
+|   |   |       
+|   |   +---engineering
+|   |   |       README.md
+|   |   |       
+|   |   +---foundations
+|   |   |       README.md
+|   |   |       
+|   |   +---hardware
+|   |   |       README.md
+|   |   |       
+|   |   +---intelligence
+|   |   |       README.md
+|   |   |       
+|   |   +---models
+|   |   |       README.md
+|   |   |       
+|   |   +---roadmaps
+|   |   |       README.md
+|   |   |       
+|   |   \---standards
+|   |           README.md
+|   |           
+|   +---data_structures
+|   |   |   README.md
+|   |   |   
+|   |   +---agent_memory
+|   |   |       README.md
+|   |   |       
+|   |   +---digital_twins
+|   |   |       README.md
+|   |   |       
+|   |   +---event_streams
+|   |   |       README.md
+|   |   |       
+|   |   +---graphs
+|   |   |       README.md
+|   |   |       
+|   |   +---knowledge_graphs
+|   |   |       README.md
+|   |   |       
+|   |   +---knowledge_objects
+|   |   |       README.md
+|   |   |       
+|   |   +---metadata
+|   |   |       README.md
+|   |   |       
+|   |   +---multimodal_objects
+|   |   |       README.md
+|   |   |       
+|   |   +---quantum
+|   |   |       README.md
+|   |   |       
+|   |   +---quantum_memory
+|   |   |       README.md
+|   |   |       
+|   |   +---robotics
+|   |   |       README.md
+|   |   |       
+|   |   +---scientific_data
+|   |   |       README.md
+|   |   |       
+|   |   +---semantic
+|   |   |       README.md
+|   |   |       
+|   |   +---semantic_memory
+|   |   |       README.md
+|   |   |       
+|   |   +---tensors
+|   |   |       README.md
+|   |   |       
+|   |   +---vector_memory
+|   |   |       README.md
+|   |   |       
+|   |   \---world_models
+|   |           README.md
+|   |           
+|   +---deployment
+|   +---digital_twins
+|   +---fabrics
+|   |   +---communication_fabric
+|   |   |       README.md
+|   |   |       
+|   |   +---compute_fabric
+|   |   |       README.md
+|   |   |       
+|   |   +---control_fabric
+|   |   |       README.md
+|   |   |       
+|   |   +---knowledge_fabric
+|   |   |       README.md
+|   |   |       
+|   |   +---memory_fabric
+|   |   |       README.md
+|   |   |       
+|   |   +---optimization_fabric
+|   |   |       README.md
+|   |   |       
+|   |   +---reasoning_fabric
+|   |   |       README.md
+|   |   |       
+|   |   +---security_fabric
+|   |   |       README.md
+|   |   |       
+|   |   +---simulation_fabric
+|   |   |       README.md
+|   |   |       
+|   |   \---storage_fabric
+|   |           README.md
+|   |           
+|   +---foundations
+|   |   |   README.md
+|   |   |   
+|   |   +---computing
+|   |   |       README.md
+|   |   |       
+|   |   +---information_theory
+|   |   |       README.md
+|   |   |       
+|   |   +---intelligence
+|   |   |       README.md
+|   |   |       
+|   |   +---mathematics
+|   |   |       README.md
+|   |   |       
+|   |   +---memory
+|   |   |       README.md
+|   |   |       
+|   |   +---networking
+|   |   |       README.md
+|   |   |       
+|   |   +---optimization
+|   |   |       README.md
+|   |   |       
+|   |   +---physics
+|   |   |       README.md
+|   |   |       
+|   |   +---reasoning
+|   |   |       README.md
+|   |   |       
+|   |   +---simulation
+|   |   |       README.md
+|   |   |       
+|   |   +---storage
+|   |   |       README.md
+|   |   |       
+|   |   \---synchronization
+|   |           README.md
+|   |           
+|   +---memory
+|   |   |   README.md
+|   |   |   
+|   |   +---agent_memory
+|   |   |       README.md
+|   |   |       
+|   |   +---ecosystem_memory
+|   |   |       README.md
+|   |   |       
+|   |   +---episodic_memory
+|   |   |       README.md
+|   |   |       
+|   |   +---procedural_memory
+|   |   |       README.md
+|   |   |       
+|   |   +---semantic_memory
+|   |   |       README.md
+|   |   |       
+|   |   \---working_memory
+|   |           README.md
+|   |           
+|   +---models
+|   +---runtimes
+|   |   +---ai_runtime
+|   |   |       README.md
+|   |   |       
+|   |   +---cloud_runtime
+|   |   |       README.md
+|   |   |       
+|   |   +---edge_runtime
+|   |   |       README.md
+|   |   |       
+|   |   +---inference_runtime
+|   |   |       README.md
+|   |   |       
+|   |   +---mission_runtime
+|   |   |       README.md
+|   |   |       
+|   |   +---planning_runtime
+|   |   |       README.md
+|   |   |       
+|   |   +---quantum_runtime
+|   |   |       README.md
+|   |   |       
+|   |   +---robotics_runtime
+|   |   |       README.md
+|   |   |       
+|   |   \---simulation_runtime
+|   |           README.md
+|   |           
+|   \---world_models
+|       +---climate
+|       |       README.md
+|       |       
+|       +---economic
+|       |       README.md
+|       |       
+|       +---enterprise
+|       |       README.md
+|       |       
+|       +---healthcare
+|       |       README.md
+|       |       
+|       +---materials
+|       |       README.md
+|       |       
+|       +---mission
+|       |       README.md
+|       |       
+|       +---physical
+|       |       README.md
+|       |       
+|       +---robotics
+|       |       README.md
+|       |       
+|       +---scientific
+|       |       README.md
+|       |       
+|       \---society
+|               README.md
+|               
++---qai_architecture
+|   |   README.md
+|   |   
+|   +---architectural_patterns
+|   |       README.md
+|   |       
+|   +---architecture_decision_records
+|   |       README.md
+|   |       
+|   +---compute_models
+|   |       README.md
+|   |       
+|   +---control_planes
+|   |       README.md
+|   |       
+|   +---deployment_models
+|   |       README.md
+|   |       
+|   +---design_principles
+|   |       README.md
+|   |       
+|   +---enterprise_integration
+|   |       README.md
+|   |       
+|   +---hardware_abstraction
+|   |       README.md
+|   |       
+|   +---hybrid_runtime
+|   |       README.md
+|   |       
+|   +---interoperability
+|   |       README.md
+|   |       
+|   +---observability
+|   |       README.md
+|   |       
+|   +---orchestration
+|   |       README.md
+|   |       
+|   +---quantum_networking
+|   |       README.md
+|   |       
+|   +---reference_architectures
+|   |       README.md
+|   |       
+|   +---reference_models
+|   |       README.md
+|   |       
+|   +---resource_management
+|   |       README.md
+|   |       
+|   +---runtime_services
+|   |       README.md
+|   |       
+|   +---scalability
+|   |       README.md
+|   |       
+|   +---scheduling
+|   |       README.md
+|   |       
+|   +---security
+|   |       README.md
+|   |       
+|   +---service_mesh
+|   |       README.md
+|   |       
+|   +---validation
+|   |       README.md
+|   |       
+|   \---workload_placement
+|           README.md
+|           
++---qai_engineering
+|   |   README.md
+|   |   
+|   +---autonomous
+|   |       README.md
+|   |       
+|   +---cloud
+|   |       README.md
+|   |       
+|   +---cyber_physical
+|   |       README.md
+|   |       
+|   +---deployment
+|   |       README.md
+|   |       
+|   +---edge
+|   |       README.md
+|   |       
+|   +---enterprise
+|   |       README.md
+|   |       
+|   \---robotics
+|           README.md
+|           
++---quantum_information_science
+|   |   README.md
+|   |   
+|   +---bose_einstein_condensates
+|   |       README.md
+|   |       
+|   +---fault_tolerant_quantum_computing
+|   |       README.md
+|   |       
+|   +---future_research
+|   |       README.md
+|   |       
+|   +---hybrid_quantum_systems
+|   |       README.md
+|   |       
+|   +---photonic_systems
+|   |       README.md
+|   |       
+|   +---quantum_communication
+|   |       README.md
+|   |       
+|   +---quantum_computing
+|   |       README.md
+|   |       
+|   +---quantum_datacenters
+|   |       README.md
+|   |       
+|   +---quantum_error_correction
+|   |       README.md
+|   |       
+|   +---quantum_information
+|   |       README.md
+|   |       
+|   +---quantum_memory
+|   |       README.md
+|   |       
+|   +---quantum_networks
+|   |       README.md
+|   |       
+|   +---quantum_physics
+|   |   |   README.md
+|   |   |   
+|   |   +---anyons
+|   |   |       README.md
+|   |   |       
+|   |   +---bosons
+|   |   |       README.md
+|   |   |       
+|   |   +---fermions
+|   |   |       README.md
+|   |   |       
+|   |   +---quantum_fields
+|   |   |       README.md
+|   |   |       
+|   |   +---quantum_statistics
+|   |   |       README.md
+|   |   |       
+|   |   \---quasiparticles
+|   |           README.md
+|   |           
+|   +---quantum_processors
+|   |       README.md
+|   |       
+|   +---quantum_transduction
+|   |       README.md
+|   |       
+|   +---spintronics
+|   |       README.md
+|   |       
+|   \---topological_quantum
+|           README.md
+|           
++---references
+|   |   full_tree_sprint18_15Jun26.txt
+|   |   full_tree_sprint18_15Jun26_1.txt
+|   |   README.md
+|   |   
+|   +---books
+|   +---mit_ocw
+|   |   |   Advanced_NLP.md
+|   |   |   Algorithms_For_Inference.md
+|   |   |   Complexity_Theory.md
+|   |   |   COURSE_TEMPLATE.md
+|   |   |   Human_Supervisory_Control.md
+|   |   |   Learning_From_Data.md
+|   |   |   Lie_Groups.md
+|   |   |   Many_Body_Physics.md
+|   |   |   Matrix_Calculus.md
+|   |   |   Matrix_Methods.md
+|   |   |   Modeling_And_Simulation.md
+|   |   |   MultiAgent_Learning.md
+|   |   |   Nonlinear_Optimization.md
+|   |   |   Photonics.md
+|   |   |   Quantum_Communication.md
+|   |   |   Quantum_Field_Theory.md
+|   |   |   README.md
+|   |   |   Robotic_Manipulation.md
+|   |   |   Sensor_Technologies.md
+|   |   |   Statistical_Learning.md
+|   |   |   Tensor_Categories.md
+|   |   |   Underactuated_Robotics.md
+|   |   |   
+|   |   +---complexity
+|   |   +---learning_theory
+|   |   |       Advanced_NLP.md
+|   |   |       Algorithmic_ML.md
+|   |   |       Learning_From_Data.md
+|   |   |       Statistical_Learning.md
+|   |   |       
+|   |   +---machine_learning
+|   |   +---mathematics
+|   |   |       Boolean_Functions.md
+|   |   |       Complexity_Theory.md
+|   |   |       Lie_Groups.md
+|   |   |       Matrix_Calculus.md
+|   |   |       Matrix_Methods.md
+|   |   |       Tensor_Categories.md
+|   |   |       
+|   |   +---optimization
+|   |   |       Algorithms_For_Inference.md
+|   |   |       Decision_Based_Design.md
+|   |   |       Nonlinear_Optimization.md
+|   |   |       
+|   |   +---photonics
+|   |   +---quantum
+|   |   |       Many_Body_Physics.md
+|   |   |       Photonics.md
+|   |   |       Quantum_Communication.md
+|   |   |       Quantum_Field_Theory.md
+|   |   |       
+|   |   +---robotics
+|   |   |       Human_Supervisory_Control.md
+|   |   |       Robotic_Manipulation.md
+|   |   |       Underactuated_Robotics.md
+|   |   |       
+|   |   \---systems_engineering
+|   +---papers
+|   \---websites
++---repository_guides
+|       contributing.md
+|       document_standards.md
+|       metadata_standards.md
+|       naming_conventions.md
+|       README.md
+|       repository_governance.md
+|       repository_overview.md
+|       repository_structure.md
+|       versioning.md
+|       
++---research_intelligence
+|   |   README.md
+|   |   
+|   +---algorithm_candidates
+|   +---data_structure_candidates
+|   +---knowledge_mining
+|   |       README.md
+|   |       
+|   +---maturity_models
+|   +---model_candidates
+|   +---patent_candidates
+|   +---research_opportunities
+|   |   |   open_research_questions.md
+|   |   |   README.md
+|   |   |   
+|   |   +---digital_twins
+|   |   |       README.md
+|   |   |       
+|   |   +---ftqc
+|   |   |       README.md
+|   |   |       
+|   |   +---future_systems
+|   |   |       README.md
+|   |   |       
+|   |   +---governance
+|   |   |       README.md
+|   |   |       
+|   |   +---human_sovereignty
+|   |   |       README.md
+|   |   |       
+|   |   +---qai
+|   |   |       README.md
+|   |   |       
+|   |   \---world_models
+|   |           README.md
+|   |           
+|   +---technology_derivation
+|   +---theorem_candidates
+|   \---validation
++---roadmap
+|   |   README.md
+|   |   
+|   +---epics
+|   \---sprints
++---samples
+|   |   README.md
+|   |   
+|   +---api
+|   +---notebooks
+|   \---python
++---society50
+|       README.md
+|       
++---software_engineering
+|   |   README.md
+|   |   
+|   +---containers
+|   +---deployment_patterns
+|   +---kubernetes
+|   +---middleware
+|   +---runtimes
+|   \---virtual_machines
++---standards
+|   |   README.md
+|   |   
+|   +---IEEE
+|   |       README.md
+|   |       
+|   +---INCOSE
+|   |       README.md
+|   |       
+|   +---ISO
+|   |       README.md
+|   |       
+|   +---LinuxFoundation
+|   |       README.md
+|   |       
+|   +---NIST
+|   |       README.md
+|   |       
+|   +---OMG
+|   |       README.md
+|   |       
+|   +---OpenTelemetry
+|   |       README.md
+|   |       
+|   +---OpenUSD
+|   |       README.md
+|   |       
+|   +---ROS
+|   |       README.md
+|   |       
+|   \---W3C
+|           README.md
+|           
++---student_learning_tracks
+|   |   README.md
+|   |   
+|   +---advanced
+|   |       README.md
+|   |       
+|   +---certifications
+|   |       associate.md
+|   |       expert.md
+|   |       foundation.md
+|   |       professional.md
+|   |       README.md
+|   |       research_fellow.md
+|   |       
+|   +---digital_twin_engineering
+|   |       assessment.md
+|   |       assignments.md
+|   |       career_paths.md
+|   |       certification.md
+|   |       labs.md
+|   |       learning_objectives.md
+|   |       projects.md
+|   |       README.md
+|   |       recommended_books.md
+|   |       references.md
+|   |       roadmap.md
+|   |       syllabus.md
+|   |       
+|   +---faep_ecosystem_engineering
+|   |       assessment.md
+|   |       assignments.md
+|   |       career_paths.md
+|   |       certification.md
+|   |       labs.md
+|   |       learning_objectives.md
+|   |       projects.md
+|   |       README.md
+|   |       recommended_books.md
+|   |       references.md
+|   |       roadmap.md
+|   |       syllabus.md
+|   |       
+|   +---foundations
+|   |       README.md
+|   |       
+|   +---ftqc_engineering
+|   |       assessment.md
+|   |       assignments.md
+|   |       career_paths.md
+|   |       certification.md
+|   |       labs.md
+|   |       learning_objectives.md
+|   |       projects.md
+|   |       README.md
+|   |       recommended_books.md
+|   |       references.md
+|   |       roadmap.md
+|   |       syllabus.md
+|   |       
+|   +---human_sovereignty_engineering
+|   |       assessment.md
+|   |       assignments.md
+|   |       career_paths.md
+|   |       certification.md
+|   |       labs.md
+|   |       learning_objectives.md
+|   |       projects.md
+|   |       README.md
+|   |       recommended_books.md
+|   |       references.md
+|   |       roadmap.md
+|   |       syllabus.md
+|   |       
+|   +---intermediate
+|   |       README.md
+|   |       
+|   +---mit_path
+|   |   |   capstone_project.md
+|   |   |   README.md
+|   |   |   
+|   |   +---machine_learning
+|   |   |       README.md
+|   |   |       
+|   |   +---mathematics
+|   |   |       README.md
+|   |   |       
+|   |   +---optimization
+|   |   |       README.md
+|   |   |       
+|   |   +---quantum
+|   |   |       README.md
+|   |   |       
+|   |   +---robotics
+|   |   |       README.md
+|   |   |       
+|   |   \---systems_engineering
+|   |           README.md
+|   |           
+|   +---qagi_engineering
+|   |       assessment.md
+|   |       assignments.md
+|   |       career_paths.md
+|   |       certification.md
+|   |       labs.md
+|   |       learning_objectives.md
+|   |       projects.md
+|   |       README.md
+|   |       recommended_books.md
+|   |       references.md
+|   |       roadmap.md
+|   |       syllabus.md
+|   |       
+|   +---qai_architecture_engineering
+|   |       assessment.md
+|   |       assignments.md
+|   |       career_paths.md
+|   |       certification.md
+|   |       labs.md
+|   |       learning_objectives.md
+|   |       projects.md
+|   |       README.md
+|   |       recommended_books.md
+|   |       references.md
+|   |       roadmap.md
+|   |       syllabus.md
+|   |       
+|   +---qai_path
+|   |   |   capstone_project.md
+|   |   |   README.md
+|   |   |   
+|   |   +---algorithms
+|   |   |       README.md
+|   |   |       
+|   |   +---architecture
+|   |   |       README.md
+|   |   |       
+|   |   +---data_structures
+|   |   |       README.md
+|   |   |       
+|   |   +---engineering
+|   |   |       README.md
+|   |   |       
+|   |   +---patterns
+|   |   |       README.md
+|   |   |       
+|   |   +---runtimes
+|   |   |       README.md
+|   |   |       
+|   |   +---standards
+|   |   |       README.md
+|   |   |       
+|   |   \---technology
+|   |           README.md
+|   |           
+|   +---qai_quantum_electronics
+|   |       advanced_packaging.md
+|   |       assessment.md
+|   |       assignments.md
+|   |       career_paths.md
+|   |       career_roadmap.md
+|   |       certification.md
+|   |       chip_packaging.md
+|   |       control_electronics.md
+|   |       co_packaged_optics.md
+|   |       cryogenics.md
+|   |       cryogenic_electronics.md
+|   |       fabrication.md
+|   |       fault_tolerant_hardware.md
+|   |       future_research.md
+|   |       industry_landscape.md
+|   |       labs.md
+|   |       laser_systems.md
+|   |       learning_objectives.md
+|   |       microwave_engineering.md
+|   |       nano_fabrication.md
+|   |       neutral_atom_computing.md
+|   |       packaging.md
+|   |       photonics.md
+|   |       photonic_quantum_computing.md
+|   |       projects.md
+|   |       QAI_Quantum_Electronics_Engineering_Academy_Syllabus_v1.docx
+|   |       quantum_control.md
+|   |       quantum_devices.md
+|   |       quantum_interconnects.md
+|   |       quantum_materials.md
+|   |       quantum_measurement.md
+|   |       quantum_processor_design.md
+|   |       quantum_system_integration.md
+|   |       qubit_technologies.md
+|   |       README.md
+|   |       readout_electronics.md
+|   |       recommended_books.md
+|   |       references.md
+|   |       rf_quantum_systems.md
+|   |       roadmap.md
+|   |       semiconductor_quantum.md
+|   |       silicon_spin_qubits.md
+|   |       spintronics.md
+|   |       superconducting_qubits.md
+|   |       syllabus.md
+|   |       trapped_ion_systems.md
+|   |       
+|   +---qasi_engineering
+|   |       assessment.md
+|   |       assignments.md
+|   |       career_paths.md
+|   |       certification.md
+|   |       labs.md
+|   |       learning_objectives.md
+|   |       projects.md
+|   |       README.md
+|   |       recommended_books.md
+|   |       references.md
+|   |       roadmap.md
+|   |       syllabus.md
+|   |       
+|   +---research
+|   |   |   README.md
+|   |   |   
+|   |   +---benchmarking
+|   |   |       README.md
+|   |   |       
+|   |   +---experiments
+|   |   |       README.md
+|   |   |       
+|   |   +---paper_reading
+|   |   |       README.md
+|   |   |       
+|   |   +---paper_writing
+|   |   |       README.md
+|   |   |       
+|   |   +---patents
+|   |   |       README.md
+|   |   |       
+|   |   +---publications
+|   |   |       README.md
+|   |   |       
+|   |   \---validation
+|   |           README.md
+|   |           
+|   +---startup_engineering
+|   |   |   assessment.md
+|   |   |   assignments.md
+|   |   |   career_paths.md
+|   |   |   certification.md
+|   |   |   labs.md
+|   |   |   learning_objectives.md
+|   |   |   projects.md
+|   |   |   README.md
+|   |   |   recommended_books.md
+|   |   |   references.md
+|   |   |   roadmap.md
+|   |   |   syllabus.md
+|   |   |   
+|   |   +---business_models
+|   |   |       README.md
+|   |   |       
+|   |   +---commercialization
+|   |   |       README.md
+|   |   |       
+|   |   +---fundraising
+|   |   |       README.md
+|   |   |       
+|   |   +---go_to_market
+|   |   |       README.md
+|   |   |       
+|   |   +---ideation
+|   |   |       README.md
+|   |   |       
+|   |   +---ip_strategy
+|   |   |       README.md
+|   |   |       
+|   |   \---validation
+|   |           README.md
+|   |           
+|   \---world_model_engineering
+|           assessment.md
+|           assignments.md
+|           career_paths.md
+|           certification.md
+|           labs.md
+|           learning_objectives.md
+|           projects.md
+|           README.md
+|           recommended_books.md
+|           references.md
+|           roadmap.md
+|           syllabus.md
+|           
++---systems_engineering
+|   |   README.md
+|   |   
+|   +---axiomatic_design
+|   +---decision_based_design
+|   +---incose
+|   +---lean
+|   +---mission_engineering
+|   +---set_based_design
+|   +---supervisory_control
+|   \---uaf
++---technology
+|   |   README.md
+|   |   
+|   +---ai
+|   |       README.md
+|   |       
+|   +---cloud
+|   |   |   README.md
+|   |   |   
+|   |   +---AWS
+|   |   |       README.md
+|   |   |       
+|   |   +---Azure
+|   |   |       README.md
+|   |   |       
+|   |   \---GoogleCloud
+|   |           README.md
+|   |           
+|   +---containers
+|   |       README.md
+|   |       
+|   +---databases
+|   |       README.md
+|   |       
+|   +---devops
+|   |       README.md
+|   |       
+|   +---edge
+|   |       README.md
+|   |       
+|   +---hardware
+|   |   |   README.md
+|   |   |   
+|   |   +---AMD
+|   |   |       README.md
+|   |   |       
+|   |   +---Intel
+|   |   |       README.md
+|   |   |       
+|   |   \---NVIDIA
+|   |           README.md
+|   |           
+|   +---networking
+|   |   |   README.md
+|   |   |   
+|   |   +---5G
+|   |   |       README.md
+|   |   |       
+|   |   +---6G
+|   |   |       README.md
+|   |   |       
+|   |   +---Ethernet
+|   |   |       README.md
+|   |   |       
+|   |   \---Software_Defined_Networking
+|   |           README.md
+|   |           
+|   +---operating_systems
+|   |   |   README.md
+|   |   |   
+|   |   +---Linux
+|   |   |       README.md
+|   |   |       
+|   |   \---Windows
+|   |           README.md
+|   |           
+|   +---orchestration
+|   |   |   README.md
+|   |   |   
+|   |   +---Docker
+|   |   |       README.md
+|   |   |       
+|   |   \---Kubernetes
+|   |           README.md
+|   |           
+|   +---programming_languages
+|   |       README.md
+|   |       
+|   +---quantum
+|   |   |   README.md
+|   |   |   
+|   |   +---Photonics
+|   |   |       README.md
+|   |   |       
+|   |   +---Quantum_Communication
+|   |   |       README.md
+|   |   |       
+|   |   +---Quantum_Computing
+|   |   |       README.md
+|   |   |       
+|   |   +---Quantum_Networks
+|   |   |       README.md
+|   |   |       
+|   |   \---Quantum_Sensing
+|   |           README.md
+|   |           
+|   +---robotics
+|   |   |   README.md
+|   |   |   
+|   |   \---ROS2
+|   |           README.md
+|   |           
+|   \---simulation
+|           README.md
+|           
++---technology_portfolio
+|   |   README.md
+|   |   
+|   +---commercialization
+|   |       README.md
+|   |       
+|   +---horizons
+|   |       README.md
+|   |       
+|   +---investment
+|   |       README.md
+|   |       
+|   +---products
+|   |       README.md
+|   |       
+|   +---research
+|   |       README.md
+|   |       
+|   +---roadmap
+|   |       README.md
+|   |       
+|   \---scoring
+|           README.md
+|           
++---templates
+|   |   ALGORITHM_TEMPLATE.md
+|   |   ASSESSMENT_TEMPLATE.md
+|   |   AUTHORING_GUIDE.md
+|   |   BOOK_TEMPLATE.md
+|   |   CAPSTONE_TEMPLATE.md
+|   |   CASE_STUDY_TEMPLATE.md
+|   |   COURSE_TEMPLATE.md
+|   |   DATA_STRUCTURE_TEMPLATE.md
+|   |   DOCUMENTATION_STANDARDS.md
+|   |   FRAMEWORK_TEMPLATE.md
+|   |   KNOWLEDGE_ASSET_TEMPLATE.md
+|   |   LAB_TEMPLATE.md
+|   |   NOTEBOOK_TEMPLATE.md
+|   |   PATTERN_TEMPLATE.md
+|   |   PLATFORM_TEMPLATE.md
+|   |   PROJECT_TEMPLATE.md
+|   |   README.md
+|   |   REFERENCE_TEMPLATE.md
+|   |   REPOSITORY_TEMPLATE.md
+|   |   RUNTIME_TEMPLATE.md
+|   |   SAMPLE_TEMPLATE.md
+|   |   STANDARD_TEMPLATE.md
+|   |   TUTORIAL_TEMPLATE.md
+|   |   WHITEPAPER_TEMPLATE.md
+|   |   
+|   +---blueprints
+|   +---markdown
+|   +---patterns
+|   |       README.md
+|   |       
+|   +---research
+|   \---sprints
++---tools
+|       create-enterprise-intelligence-structure.ps1
+|       create-faep-academy-sprint19.ps1
+|       create-faep-academy-structure.ps1
+|       create-mit-knowledge-structure.ps1
+|       create-next-gen-faep-structure.ps1
+|       create-qai-architecture-repository-generator.ps1
+|       create-shared-folders-files.ps1
+|       create-shared-structure.ps1
+|       create-starter-files.ps1
+|       create-student-learning-tracks-bootstrap.ps1
+|       create-technology-structure.ps1
+|       data_engineering_folder_generator.ps1
+|       ecosystem_folder_generator.ps1
+|       EmptyFolders.txt
+|       empty_md_report.csv
+|       enterprise_folder_generator.ps1
+|       faep_knowledge_graphs_generator.ps1
+|       foundations_folderupdate.ps1
+|       full_tree_sprint19_26Jun26_1.txt
+|       full_tree_sprint19_28Jun28_1.txt
+|       full_tree_sprint20_07Jul26_1.txt
+|       full_tree_sprint20_08Jul26_1.txt
+|       full_tree_sprint20_11Jul26_1.txt
+|       full_tree_sprint20_11Jul26_2.txt
+|       intelligence_maturity_folder_generator.ps1
+|       intelligent_systems_folder_update.ps1
+|       machine_learningfolder_update.ps1
+|       mathematics_folder_update.ps1
+|       mit_folder_update.ps1
+|       professional-development-folder-structure.ps1
+|       projects_folder_update.ps1
+|       qai_computing_foundations_expansion.ps1
+|       qai_development_folder_generator.ps1
+|       qai_folder_generator.ps1
+|       quantum_computing_folder_generator.ps1
+|       quantum_information_science_folder_generator.ps1
+|       repository_tree.txt
+|       research_folder_generator.ps1
+|       software_engineering_folder_generator.ps1
+|       systems_engineering_folder_generator.ps1
+|       templates-structure-update.ps1
+|       tutorials-folder-structure-generator.ps1
+|       
+\---tutorials
+    |   README.md
+    |   
+    +---ai
+    |       README.md
+    |       
+    +---architecture
+    |   |   README.md
+    |   |   
+    |   +---enterprise_architecture
+    |   |       README.md
+    |   |       
+    |   +---reference_architectures
+    |   |       README.md
+    |   |       
+    |   +---reference_models
+    |   |       README.md
+    |   |       
+    |   +---scalability
+    |   |       README.md
+    |   |       
+    |   +---scheduling
+    |   |       README.md
+    |   |       
+    |   +---security
+    |   |       README.md
+    |   |       
+    |   +---service_mesh
+    |   |       README.md
+    |   |       
+    |   +---validation
+    |   |       README.md
+    |   |       
+    |   \---workload_placement
+    |           README.md
+    |           
+    +---cloud
+    |   |   README.md
+    |   |   
+    |   +---aws
+    |   |       README.md
+    |   |       
+    |   +---azure
+    |   |       README.md
+    |   |       
+    |   +---gcp
+    |   |       README.md
+    |   |       
+    |   +---hybrid_cloud
+    |   |       README.md
+    |   |       
+    |   \---multicloud
+    |           README.md
+    |           
+    +---cybersecurity
+    |       README.md
+    |       
+    +---cyber_physical_systems
+    |       README.md
+    |       
+    +---data_engineering
+    |   |   README.md
+    |   |   
+    |   +---cloud_data_platforms
+    |   |       README.md
+    |   |       
+    |   +---databases
+    |   |       README.md
+    |   |       
+    |   +---data_foundations
+    |   |       README.md
+    |   |       
+    |   +---data_governance
+    |   |       README.md
+    |   |       
+    |   +---data_lakes
+    |   |       README.md
+    |   |       
+    |   +---data_lifecycle
+    |   |       README.md
+    |   |       
+    |   +---data_modeling
+    |   |       README.md
+    |   |       
+    |   +---data_observability
+    |   |       README.md
+    |   |       
+    |   +---data_pipelines
+    |   |       README.md
+    |   |       
+    |   +---data_privacy
+    |   |       README.md
+    |   |       
+    |   +---data_quality
+    |   |       README.md
+    |   |       
+    |   +---data_security
+    |   |       README.md
+    |   |       
+    |   +---data_structures
+    |   |       README.md
+    |   |       
+    |   +---data_validation
+    |   |       README.md
+    |   |       
+    |   +---data_virtualization
+    |   |       README.md
+    |   |       
+    |   +---data_warehousing
+    |   |       README.md
+    |   |       
+    |   +---digital_twin_data
+    |   |       README.md
+    |   |       
+    |   +---distributed_storage
+    |   |       README.md
+    |   |       
+    |   +---engineering_standards
+    |   |       README.md
+    |   |       
+    |   +---etl_elt
+    |   |       README.md
+    |   |       
+    |   +---event_driven_data
+    |   |       README.md
+    |   |       
+    |   +---future_data_engineering
+    |   |       README.md
+    |   |       
+    |   +---graph_data
+    |   |       README.md
+    |   |       
+    |   +---hybrid_classical_quantum_storage
+    |   |       README.md
+    |   |       
+    |   +---hybrid_storage
+    |   |       README.md
+    |   |       
+    |   +---information_engineering
+    |   |       README.md
+    |   |       
+    |   +---information_fabric
+    |   |       README.md
+    |   |       
+    |   +---knowledge_graphs
+    |   |       README.md
+    |   |       
+    |   +---lakehouse
+    |   |       README.md
+    |   |       
+    |   +---master_data_management
+    |   |       README.md
+    |   |       
+    |   +---metadata_management
+    |   |       README.md
+    |   |       
+    |   +---qai_data_models
+    |   |       README.md
+    |   |       
+    |   +---qai_information_engineering
+    |   |       README.md
+    |   |       
+    |   +---qai_information_layer
+    |   |       README.md
+    |   |       
+    |   +---qai_memory_foundations
+    |   |       README.md
+    |   |       
+    |   +---qai_storage_abstraction
+    |   |       README.md
+    |   |       
+    |   +---semantic_information_models
+    |   |       README.md
+    |   |       
+    |   +---streaming_data
+    |   |       README.md
+    |   |       
+    |   +---time_series_data
+    |   |       README.md
+    |   |       
+    |   \---vector_databases
+    |           README.md
+    |           
+    +---development
+    |   |   README.md
+    |   |   
+    |   +---cpp
+    |   |       README.md
+    |   |       
+    |   +---csharp
+    |   |       README.md
+    |   |       
+    |   +---cudaq
+    |   |       README.md
+    |   |       
+    |   +---development_tools
+    |   +---docker
+    |   |       README.md
+    |   |       
+    |   +---github
+    |   |       README.md
+    |   |       
+    |   +---go
+    |   +---java
+    |   +---javascript
+    |   +---kubernetes
+    |   |       README.md
+    |   |       
+    |   +---python
+    |   |       README.md
+    |   |       
+    |   +---qai_development
+    |   |   |   README.md
+    |   |   |   
+    |   |   +---future_directions
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---qai_agents
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---qai_api_design
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---qai_data_structures
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---qai_execution_model
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---qai_memory_model
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---qai_programming_model
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---qai_runtime
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---qai_sdk
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---qai_security
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---qai_storage_model
+    |   |   |       README.md
+    |   |   |       
+    |   |   \---qai_workflow_engine
+    |   |           README.md
+    |   |           
+    |   +---qiskit
+    |   |       README.md
+    |   |       
+    |   +---rust
+    |   |       README.md
+    |   |       
+    |   \---tensorflow_quantum
+    +---digital_twins
+    |       README.md
+    |       
+    +---ecosystem
+    |   |   README.md
+    |   |   
+    |   +---autonomous_zones
+    |   |       README.md
+    |   |       
+    |   +---change_management
+    |   |       README.md
+    |   |       
+    |   +---ecosystem_architecture
+    |   |       README.md
+    |   |       
+    |   +---ecosystem_data
+    |   +---ecosystem_engineering
+    |   +---ecosystem_foundations
+    |   |       README.md
+    |   |       
+    |   +---ecosystem_intelligence
+    |   +---ecosystem_operations
+    |   +---ecosystem_security
+    |   +---engineering_standards
+    |   +---future_ecosystems
+    |   |       README.md
+    |   |       
+    |   +---global_ecosystems
+    |   |       README.md
+    |   |       
+    |   +---governance
+    |   |       README.md
+    |   |       
+    |   +---innovation_ecosystems
+    |   |       README.md
+    |   |       
+    |   +---innovation_valleys
+    |   |       README.md
+    |   |       
+    |   +---intelligent_factories
+    |   |       README.md
+    |   |       
+    |   +---national_ecosystems
+    |   |       README.md
+    |   |       
+    |   +---provincial_ecosystems
+    |   |       README.md
+    |   |       
+    |   +---smart_cities
+    |   |       README.md
+    |   |       
+    |   +---space_ecosystems
+    |   |       README.md
+    |   |       
+    |   +---stakeholder_management
+    |   |       README.md
+    |   |       
+    |   \---sustainability
+    |           README.md
+    |           
+    +---ecosystem_intelligence
+    |   |   README.md
+    |   |   
+    |   +---autonomous_ecosystems
+    |   |       README.md
+    |   |       
+    |   +---cognitive_ecosystems
+    |   |       README.md
+    |   |       
+    |   +---collaborative_intelligence
+    |   |       README.md
+    |   |       
+    |   +---dynamic_intelligence
+    |   |       README.md
+    |   |       
+    |   +---ecosystem_learning
+    |   |   |   README.md
+    |   |   |   
+    |   |   +---adaptive_learning
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---continuous_improvement
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---continuous_learning
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---ecosystem_evolution
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---experience_capture
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---intelligence_maturity
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---lessons_learned
+    |   |   |       README.md
+    |   |   |       
+    |   |   \---root_cause_learning
+    |   |           README.md
+    |   |           
+    |   +---ecosystem_memory
+    |   |       README.md
+    |   |       
+    |   +---ecosystem_orchestration
+    |   |       README.md
+    |   |       
+    |   +---ecosystem_reservoirs
+    |   |   |   README.md
+    |   |   |   
+    |   |   +---ai_reservoir
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---capability_reservoir
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---community_reservoir
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---digital_asset_reservoir
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---information_reservoir
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---intelligence_reservoir
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---knowledge_reservoir
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---mission_reservoir
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---qai_reservoir
+    |   |   |       README.md
+    |   |   |       
+    |   |   \---workflow_reservoir
+    |   |           README.md
+    |   |           
+    |   +---federated_intelligence
+    |   |       README.md
+    |   |       
+    |   +---future_ecosystem_intelligence
+    |   |       README.md
+    |   |       
+    |   +---information_engineering
+    |   |       README.md
+    |   |       
+    |   +---intelligence_catalog
+    |   |       README.md
+    |   |       
+    |   +---intelligence_continuity
+    |   |   |   README.md
+    |   |   |   
+    |   |   +---business_continuity
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---disaster_recovery
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---ecosystem_modernization
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---intelligence_portability
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---intelligence_preservation
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---intelligence_transfer
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---operational_recovery
+    |   |   |       README.md
+    |   |   |       
+    |   |   \---resilience_engineering
+    |   |           README.md
+    |   |           
+    |   +---intelligence_foundations
+    |   |       README.md
+    |   |       
+    |   +---intelligence_governance
+    |   |       README.md
+    |   |       
+    |   +---intelligence_validation
+    |   |       README.md
+    |   |       
+    |   +---knowledge_engineering
+    |   |       README.md
+    |   |       
+    |   +---master_intelligence
+    |   |       README.md
+    |   |       
+    |   +---mission_intelligence
+    |   |       README.md
+    |   |       
+    |   +---qai_ecosystem_intelligence
+    |   |       README.md
+    |   |       
+    |   +---standards_and_governance
+    |   |       README.md
+    |   |       
+    |   \---truth_management
+    |           README.md
+    |           
+    +---enterprise
+    |   |   README.md
+    |   |   
+    |   +---adoption
+    |   |       README.md
+    |   |       
+    |   +---architecture_reviews
+    |   |       README.md
+    |   |       
+    |   +---best_practices
+    |   |       README.md
+    |   |       
+    |   +---capability_maturity
+    |   |       README.md
+    |   |       
+    |   +---change_management
+    |   |       README.md
+    |   |       
+    |   +---digital_transformation
+    |   |       README.md
+    |   |       
+    |   +---engineering_standards
+    |   |       README.md
+    |   |       
+    |   +---enterprise_ai
+    |   |       README.md
+    |   |       
+    |   +---enterprise_architecture
+    |   |       README.md
+    |   |       
+    |   +---enterprise_cloud
+    |   |       README.md
+    |   |       
+    |   +---enterprise_data
+    |   |       README.md
+    |   |       
+    |   +---enterprise_digital_twins
+    |   |       README.md
+    |   |       
+    |   +---enterprise_engineering
+    |   |       README.md
+    |   |       
+    |   +---enterprise_integration
+    |   |       README.md
+    |   |       
+    |   +---enterprise_maturity
+    |   |       README.md
+    |   |       
+    |   +---enterprise_operations
+    |   |       README.md
+    |   |       
+    |   +---enterprise_qai
+    |   |       README.md
+    |   |       
+    |   +---enterprise_readiness
+    |   |       README.md
+    |   |       
+    |   +---enterprise_security
+    |   |       README.md
+    |   |       
+    |   +---enterprise_validation
+    |   |       README.md
+    |   |       
+    |   +---future_enterprise
+    |   |       README.md
+    |   |       
+    |   +---governance
+    |   |       README.md
+    |   |       
+    |   +---modernization
+    |   |       README.md
+    |   |       
+    |   +---stakeholder_management
+    |   |       README.md
+    |   |       
+    |   +---technology_adoption
+    |   |       README.md
+    |   |       
+    |   \---transformation
+    |           README.md
+    |           
+    +---foundations
+    |   |   README.md
+    |   |   
+    |   +---computational_thinking
+    |   |       README.md
+    |   |       
+    |   +---computing_foundations
+    |   |       README.md
+    |   |       
+    |   +---data_representation
+    |   |       README.md
+    |   |       
+    |   +---distributed_systems
+    |   |       README.md
+    |   |       
+    |   +---engineering_mindset
+    |   |       README.md
+    |   |       
+    |   +---execution_models
+    |   |       README.md
+    |   |       
+    |   +---future_computing
+    |   |       README.md
+    |   |       
+    |   +---getting_started
+    |   |       README.md
+    |   |       
+    |   +---hybrid_computing
+    |   |       README.md
+    |   |       
+    |   +---information_fabric
+    |   |       README.md
+    |   |       
+    |   +---information_foundations
+    |   |       README.md
+    |   |       
+    |   +---learning_paths
+    |   |       README.md
+    |   |       
+    |   +---mathematics
+    |   |       README.md
+    |   |       
+    |   +---memory_models
+    |   |       README.md
+    |   |       
+    |   +---operating_systems
+    |   |       README.md
+    |   |       
+    |   +---physics
+    |   |       README.md
+    |   |       
+    |   +---problem_solving
+    |   |       README.md
+    |   |       
+    |   +---protocols
+    |   |       README.md
+    |   |       
+    |   +---qai_communication_foundations
+    |   |       README.md
+    |   |       
+    |   +---qai_computing_foundations
+    |   |       README.md
+    |   |       
+    |   +---qai_foundations
+    |   |   |   README.md
+    |   |   |   
+    |   |   +---communication_foundations
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---computing_foundations
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---information_foundations
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---intelligence_foundations
+    |   |   |       README.md
+    |   |   |       
+    |   |   \---memory_foundations
+    |   |           README.md
+    |   |           
+    |   +---runtime_systems
+    |   |       README.md
+    |   |       
+    |   +---scientific_method
+    |   |       README.md
+    |   |       
+    |   +---software_foundations
+    |   |       README.md
+    |   |       
+    |   +---systems_thinking
+    |   |       README.md
+    |   |       
+    |   \---terminology
+    |           README.md
+    |           
+    +---hybrid_quantum_systems
+    |       README.md
+    |       
+    +---intelligent_systems
+    |   |   README.md
+    |   |   
+    |   +---autonomous_agents
+    |   |       README.md
+    |   |       
+    |   +---autonomous_systems
+    |   |       README.md
+    |   |       
+    |   +---cyber_physical_systems
+    |   |       README.md
+    |   |       
+    |   +---defence_systems
+    |   |       README.md
+    |   |       
+    |   +---drones
+    |   |       README.md
+    |   |       
+    |   +---ecosystem_systems
+    |   |       README.md
+    |   |       
+    |   +---future_intelligent_systems
+    |   |       README.md
+    |   |       
+    |   +---healthcare_systems
+    |   |       README.md
+    |   |       
+    |   +---industrial_systems
+    |   |       README.md
+    |   |       
+    |   +---intelligence_maturity
+    |   |   |   README.md
+    |   |   |   
+    |   |   +---ai_intelligent_systems
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---classical_intelligent_systems
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---federated_autonomous_ecosystems
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---hybrid_classical_ai_systems
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---hybrid_classical_quantum_systems
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---qagi_systems
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---qai_intelligent_systems
+    |   |   |       README.md
+    |   |   |       
+    |   |   \---qasi_systems
+    |   |           README.md
+    |   |           
+    |   +---intelligent_infrastructure
+    |   |       README.md
+    |   |       
+    |   +---mission_systems
+    |   |       README.md
+    |   |       
+    |   +---multi_agent_systems
+    |   |       README.md
+    |   |       
+    |   +---robotics
+    |   |       README.md
+    |   |       
+    |   +---space_systems
+    |   |       README.md
+    |   |       
+    |   +---swarm_systems
+    |   |       README.md
+    |   |       
+    |   \---transportation_systems
+    |           README.md
+    |           
+    +---knowledge_graphs
+    |       README.md
+    |       
+    +---machine_learning
+    |   |   README.md
+    |   |   
+    |   +---agentic_ai
+    |   |       README.md
+    |   |       
+    |   +---agents
+    |   |       README.md
+    |   |       
+    |   +---deep_learning
+    |   |       README.md
+    |   |       
+    |   +---deployment
+    |   |       README.md
+    |   |       
+    |   +---evaluation
+    |   |       README.md
+    |   |       
+    |   +---future_learning_systems
+    |   |       README.md
+    |   |       
+    |   +---generative_ai
+    |   |       README.md
+    |   |       
+    |   +---hybrid_ai_quantum_models
+    |   |       README.md
+    |   |       
+    |   +---llms
+    |   |       README.md
+    |   |       
+    |   +---mlops
+    |   |       README.md
+    |   |       
+    |   +---ml_foundations
+    |   |       README.md
+    |   |       
+    |   +---model_validation
+    |   |       README.md
+    |   |       
+    |   +---qai_models
+    |   |       README.md
+    |   |       
+    |   +---quantum_machine_learning
+    |   |       README.md
+    |   |       
+    |   +---rag
+    |   |       README.md
+    |   |       
+    |   +---reinforcement_learning
+    |   |       README.md
+    |   |       
+    |   +---supervised
+    |   |       README.md
+    |   |       
+    |   +---supervised_learning
+    |   |       README.md
+    |   |       
+    |   +---transformers
+    |   |       README.md
+    |   |       
+    |   +---unsupervised
+    |   |       README.md
+    |   |       
+    |   \---unsupervised_learning
+    |           README.md
+    |           
+    +---mathematics
+    |   |   README.md
+    |   |   
+    |   +---calculus
+    |   +---classical_mathematics
+    |   |   |   README.md
+    |   |   |   
+    |   |   +---calculus
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---graph_theory
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---information_theory
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---linear_algebra
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---numerical_methods
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---optimization
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---probability
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---statistics
+    |   |   |       README.md
+    |   |   |       
+    |   |   \---tensor_mathematics
+    |   |           README.md
+    |   |           
+    |   +---computational_mathematics
+    |   |   |   README.md
+    |   |   |   
+    |   |   +---control_theory
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---discrete_mathematics
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---graph_theory
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---information_theory
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---linear_algebra
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---machine_learning_mathematics
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---numerical_methods
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---optimization
+    |   |   |       README.md
+    |   |   |       
+    |   |   \---signal_processing
+    |   |           README.md
+    |   |           
+    |   +---engineering_axioms
+    |   |       README.md
+    |   |       
+    |   +---graph_theory
+    |   +---information_theory
+    |   +---linear_algebra
+    |   |       README.md
+    |   |       
+    |   +---numerical_methods
+    |   +---optimization
+    |   |       README.md
+    |   |       
+    |   +---probability
+    |   |       README.md
+    |   |       
+    |   +---qai_mathematics
+    |   |   |   README.md
+    |   |   |   
+    |   |   +---category_theory
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---complex_numbers
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---computational_models
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---engineering_models
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---future_mathematics
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---hilbert_spaces
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---information_geometry
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---lie_groups
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---linear_operators
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---mathematical_models
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---quantum_error_correction_mathematics
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---quantum_information_theory
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---quantum_probability
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---tensor_algebra
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---topology
+    |   |   |       README.md
+    |   |   |       
+    |   |   \---unitary_transformations
+    |   |           README.md
+    |   |           
+    |   +---statistics
+    |   \---tensor_mathematics
+    +---mit
+    |   |   README.md
+    |   |   
+    |   +---computational_thinking
+    |   |       README.md
+    |   |       
+    |   +---engineering_design
+    |   |       README.md
+    |   |       
+    |   +---future_research
+    |   |       README.md
+    |   |       
+    |   +---learning
+    |   |       README.md
+    |   |       
+    |   +---learning_path
+    |   |       README.md
+    |   |       
+    |   +---machine_learning
+    |   |       README.md
+    |   |       
+    |   +---mathematics
+    |   |       README.md
+    |   |       
+    |   +---matrix_methods
+    |   |       README.md
+    |   |       
+    |   +---optimization
+    |   |       README.md
+    |   |       
+    |   +---qai_translation
+    |   |       README.md
+    |   |       
+    |   +---quantum_computing
+    |   |       README.md
+    |   |       
+    |   +---quantum_information
+    |   |       README.md
+    |   |       
+    |   +---quantum_information_science
+    |   |       README.md
+    |   |       
+    |   +---robotics
+    |   |       README.md
+    |   |       
+    |   \---systems_engineering
+    |           README.md
+    |           
+    +---photonic_computing
+    |       README.md
+    |       
+    +---professional_development
+    |       README.md
+    |       
+    +---projects
+    |   |   README.md
+    |   |   
+    |   +---advanced
+    |   |       README.md
+    |   |       
+    |   +---beginner
+    |   |       README.md
+    |   |       
+    |   +---capstone
+    |   |       README.md
+    |   |       
+    |   +---collaborative_projects
+    |   |       README.md
+    |   |       
+    |   +---competitions
+    |   |       README.md
+    |   |       
+    |   +---domain_projects
+    |   |       README.md
+    |   |       
+    |   +---future_projects
+    |   |       README.md
+    |   |       
+    |   +---industrial_visits
+    |   |       README.md
+    |   |       
+    |   +---industry_projects
+    |   |       README.md
+    |   |       
+    |   +---innovation_projects
+    |   |       README.md
+    |   |       
+    |   +---intermediate
+    |   |       README.md
+    |   |       
+    |   +---internships
+    |   |       README.md
+    |   |       
+    |   +---portfolio_projects
+    |   |       README.md
+    |   |       
+    |   +---practicum
+    |   |       README.md
+    |   |       
+    |   +---research_projects
+    |   |       README.md
+    |   |       
+    |   \---startup_projects
+    |           README.md
+    |           
+    +---qai
+    |   |   README.md
+    |   |   
+    |   +---digital_twins
+    |   |       README.md
+    |   |       
+    |   +---enterprise_intelligence
+    |   |       README.md
+    |   |       
+    |   +---faep
+    |   |       README.md
+    |   |       
+    |   +---future_qai
+    |   |       README.md
+    |   |       
+    |   +---hybrid_runtime
+    |   |       README.md
+    |   |       
+    |   +---knowledge_graphs
+    |   |       README.md
+    |   |       
+    |   +---qagi_qasi
+    |   |       README.md
+    |   |       
+    |   +---qai_agents
+    |   |       README.md
+    |   |       
+    |   +---qai_architecture
+    |   |       README.md
+    |   |       
+    |   +---qai_cloud
+    |   |       README.md
+    |   |       
+    |   +---qai_communication
+    |   |       README.md
+    |   |       
+    |   +---qai_computing
+    |   |       README.md
+    |   |       
+    |   +---qai_ecosystems
+    |   |       README.md
+    |   |       
+    |   +---qai_engineering
+    |   |       README.md
+    |   |       
+    |   +---qai_foundations
+    |   |       README.md
+    |   |       
+    |   +---qai_frameworks
+    |   |       README.md
+    |   |       
+    |   +---qai_hub
+    |   |       README.md
+    |   |       
+    |   +---qai_information
+    |   |       README.md
+    |   |       
+    |   +---qai_memory
+    |   |       README.md
+    |   |       
+    |   +---qai_models
+    |   |       README.md
+    |   |       
+    |   +---qai_operations
+    |   |       README.md
+    |   |       
+    |   +---qai_platform
+    |   |       README.md
+    |   |       
+    |   +---qai_primitives
+    |   |       README.md
+    |   |       
+    |   +---qai_products
+    |   |       README.md
+    |   |       
+    |   +---qai_research
+    |   |       README.md
+    |   |       
+    |   +---qai_runtime
+    |   |       README.md
+    |   |       
+    |   +---qai_security
+    |   |       README.md
+    |   |       
+    |   +---qai_services
+    |   |       README.md
+    |   |       
+    |   +---qai_validation
+    |   |       README.md
+    |   |       
+    |   +---qai_workflows
+    |   |       README.md
+    |   |       
+    |   +---runtime_services
+    |   |       README.md
+    |   |       
+    |   +---tensors
+    |   |       README.md
+    |   |       
+    |   \---world_models
+    |           README.md
+    |           
+    +---qai_platform_engineering
+    |   |   README.md
+    |   |   
+    |   +---candidate_engineering
+    |   |   |   README.md
+    |   |   |   
+    |   |   +---1d_architecture
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---2d_architecture
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---2_5d_architecture
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---3d_architecture
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---architecture_candidates
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---design_space_exploration
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---evolutionary_design
+    |   |   |       README.md
+    |   |   |       
+    |   |   \---hybrid_architecture
+    |   |           README.md
+    |   |           
+    |   +---compiler_runtime
+    |   |   |   README.md
+    |   |   |   
+    |   |   +---adaptive_mapping
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---calibration
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---compiler
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---optimization
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---runtime
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---scheduler
+    |   |   |       README.md
+    |   |   |       
+    |   |   \---workload_management
+    |   |           README.md
+    |   |           
+    |   +---digital_twins
+    |   |   |   README.md
+    |   |   |   
+    |   |   +---calibration_twins
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---manufacturing_twins
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---memory_twins
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---operational_twins
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---packaging_twins
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---predictive_maintenance
+    |   |   |       README.md
+    |   |   |       
+    |   |   \---processor_twins
+    |   |           README.md
+    |   |           
+    |   +---fault_tolerance
+    |   |   |   README.md
+    |   |   |   
+    |   |   +---adaptive_routing
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---architecture_resilience
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---device_resilience
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---error_mitigation
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---logical_qubit_resilience
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---manufacturing_resilience
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---material_resilience
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---mission_resilience
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---physical_qubit_resilience
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---quantum_error_correction
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---redundancy
+    |   |   |       README.md
+    |   |   |       
+    |   |   \---runtime_resilience
+    |   |           README.md
+    |   |           
+    |   +---foundations
+    |   |   |   README.md
+    |   |   |   
+    |   |   +---engineering_principles
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---hardware_software_codesign
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---quantum_information
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---quantum_materials
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---quantum_physics
+    |   |   |       README.md
+    |   |   |       
+    |   |   \---qubit_technologies
+    |   |           README.md
+    |   |           
+    |   +---future_platforms
+    |   |   |   README.md
+    |   |   |   
+    |   |   +---autonomous_platforms
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---photonic_systems
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---qagi_processors
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---qasi_processors
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---quantum_networks
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---research_directions
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---scalable_ftqc
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---self_healing_processors
+    |   |   |       README.md
+    |   |   |       
+    |   |   \---topological_processors
+    |   |           README.md
+    |   |           
+    |   +---lifecycle_management
+    |   |   |   README.md
+    |   |   |   
+    |   |   +---architecture
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---deployment
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---maintenance
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---manufacturing
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---modernization
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---operations
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---requirements
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---retirement
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---simulation
+    |   |   |       README.md
+    |   |   |       
+    |   |   \---verification
+    |   |           README.md
+    |   |           
+    |   +---manufacturing_engineering
+    |   |   |   README.md
+    |   |   |   
+    |   |   +---chiplet_integration
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---cryogenic_systems
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---fabrication
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---manufacturing_digital_twins
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---manufacturing_intelligence
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---packaging
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---semiconductor_processes
+    |   |   |       README.md
+    |   |   |       
+    |   |   \---yield_optimization
+    |   |           README.md
+    |   |           
+    |   +---platform_architecture
+    |   |   |   README.md
+    |   |   |   
+    |   |   +---chiplets
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---heterogeneous_computing
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---hybrid_platforms
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---interconnects
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---motherboards
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---processor_families
+    |   |   |       README.md
+    |   |   |       
+    |   |   \---scalability
+    |   |           README.md
+    |   |           
+    |   +---processor_engineering
+    |   |   |   README.md
+    |   |   |   
+    |   |   +---execution_units
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---instruction_decoder
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---instruction_scheduler
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---pipeline_architecture
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---processor_profiles
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---qai_processor
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---quantum_alu
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---quantum_cpu
+    |   |   |       README.md
+    |   |   |       
+    |   |   \---runtime_controller
+    |   |           README.md
+    |   |           
+    |   +---processor_identity
+    |   |   |   README.md
+    |   |   |   
+    |   |   +---calibration_history
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---digital_identity
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---lifecycle_traceability
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---processor_intelligence_profile
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---processor_passport
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---processor_profiles
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---serial_numbers
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---sku_management
+    |   |   |       README.md
+    |   |   |       
+    |   |   \---wafer_tracking
+    |   |           README.md
+    |   |           
+    |   +---qai_platforms
+    |   |   |   README.md
+    |   |   |   
+    |   |   +---aerospace_platforms
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---ai_platforms
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---datacenter_platforms
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---edge_platforms
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---ftqc_platforms
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---hybrid_platforms
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---nisq_platforms
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---robotics_platforms
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---scientific_platforms
+    |   |   |       README.md
+    |   |   |       
+    |   |   \---space_platforms
+    |   |           README.md
+    |   |           
+    |   +---quality_engineering
+    |   |   |   README.md
+    |   |   |   
+    |   |   +---corrective_preventive_actions
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---design_for_manufacturing
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---design_for_test
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---fmea
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---quality_framework
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---reliability_engineering
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---root_cause_analysis
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---six_sigma
+    |   |   |       README.md
+    |   |   |       
+    |   |   \---statistical_process_control
+    |   |           README.md
+    |   |           
+    |   +---quantum_logic
+    |   |   |   README.md
+    |   |   |   
+    |   |   +---arithmetic_units
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---demux
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---latches
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---logical_qubits
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---multi_qubit_gates
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---mux
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---physical_qubits
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---qubit_mapping
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---reversible_logic
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---ripple_carry
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---single_qubit_gates
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---state_machines
+    |   |   |       README.md
+    |   |   |       
+    |   |   \---two_qubit_gates
+    |   |           README.md
+    |   |           
+    |   +---quantum_memory
+    |   |   |   README.md
+    |   |   |   
+    |   |   +---coherence
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---hybrid_memory
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---memory_controller
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---persistence
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---quantum_cache
+    |   |   |       README.md
+    |   |   |       
+    |   |   +---quantum_ram
+    |   |   |       README.md
+    |   |   |       
+    |   |   \---quantum_registers
+    |   |           README.md
+    |   |           
+    |   \---standards
+    |       |   README.md
+    |       |   
+    |       +---configuration_management
+    |       |       README.md
+    |       |       
+    |       +---governance
+    |       |       README.md
+    |       |       
+    |       +---ieee
+    |       |       README.md
+    |       |       
+    |       +---iso
+    |       |       README.md
+    |       |       
+    |       +---reliability
+    |       |       README.md
+    |       |       
+    |       +---semiconductors
+    |       |       README.md
+    |       |       
+    |       \---testing
+    |               README.md
+    |               
+    +---quantum_computing
+    |   |   README.md
+    |   |   
+    |   +---algorithms
+    |   +---circuits
+    |   +---fault_tolerant_quantum
+    |   |       README.md
+    |   |       
+    |   +---foundations
+    |   +---ftqc
+    |   +---future_quantum_computing
+    |   |       README.md
+    |   |       
+    |   +---gates
+    |   +---hardware
+    |   +---hybrid_quantum
+    |   |       README.md
+    |   |       
+    |   +---networking
+    |   +---qai_quantum_integration
+    |   |       README.md
+    |   |       
+    |   +---qec
+    |   +---quantum_algorithms
+    |   |       README.md
+    |   |       
+    |   +---quantum_applications
+    |   |       README.md
+    |   |       
+    |   +---quantum_error_correction
+    |   |       README.md
+    |   |       
+    |   +---quantum_foundations
+    |   |       README.md
+    |   |       
+    |   +---quantum_hardware
+    |   |       README.md
+    |   |       
+    |   +---quantum_information
+    |   |       README.md
+    |   |       
+    |   +---quantum_memory
+    |   |       README.md
+    |   |       
+    |   +---quantum_networks
+    |   |       README.md
+    |   |       
+    |   +---quantum_programming
+    |   |       README.md
+    |   |       
+    |   +---qubits
+    |   \---simulation
+    +---quantum_error_correction
+    |       README.md
+    |       
+    +---quantum_information_science
+    |   |   README.md
+    |   |   
+    |   \---quantum_particles
+    |       +---anyons
+    |       +---bosons
+    |       +---fermions
+    |       +---quantum_fields
+    |       +---quantum_statistics
+    |       \---quasiparticles
+    +---quantum_memory
+    |       README.md
+    |       
+    +---quantum_networking
+    |       README.md
+    |       
+    +---quantum_sensing
+    |       README.md
+    |       
+    +---quantum_transduction
+    |       README.md
+    |       
+    +---research
+    |   |   README.md
+    |   |   
+    |   +---algorithms
+    |   |       README.md
+    |   |       
+    |   +---benchmarks
+    |   |       README.md
+    |   |       
+    |   +---collaborations
+    |   |       README.md
+    |   |       
+    |   +---commercialization
+    |   |       README.md
+    |   |       
+    |   +---datasets
+    |   |       README.md
+    |   |       
+    |   +---digital_twins
+    |   |       README.md
+    |   |       
+    |   +---engineering_models
+    |   |       README.md
+    |   |       
+    |   +---experimental_design
+    |   |       README.md
+    |   |       
+    |   +---future_research
+    |   |       README.md
+    |   |       
+    |   +---future_technologies
+    |   |       README.md
+    |   |       
+    |   +---grants
+    |   |       README.md
+    |   |       
+    |   +---hybrid_ai_quantum
+    |   |       README.md
+    |   |       
+    |   +---innovation
+    |   |       README.md
+    |   |       
+    |   +---literature_reviews
+    |   |       README.md
+    |   |       
+    |   +---open_source
+    |   |       README.md
+    |   |       
+    |   +---papers
+    |   |       README.md
+    |   |       
+    |   +---patent_candidates
+    |   |       README.md
+    |   |       
+    |   +---proof_of_concepts
+    |   |       README.md
+    |   |       
+    |   +---prototypes
+    |   |       README.md
+    |   |       
+    |   +---publications
+    |   |       README.md
+    |   |       
+    |   +---quantum_information_science
+    |   |       README.md
+    |   |       
+    |   +---research_infrastructure
+    |   |       README.md
+    |   |       
+    |   +---research_methods
+    |   |       README.md
+    |   |       
+    |   +---scientific_models
+    |   |       README.md
+    |   |       
+    |   +---simulations
+    |   |       README.md
+    |   |       
+    |   +---standards_research
+    |   |       README.md
+    |   |       
+    |   +---technology_roadmaps
+    |   |       README.md
+    |   |       
+    |   +---technology_transfer
+    |   |       README.md
+    |   |       
+    |   \---validation
+    |           README.md
+    |           
+    +---robotics
+    |       README.md
+    |       
+    +---software_engineering
+    |   |   README.md
+    |   |   
+    |   +---ai_software_engineering
+    |   |       README.md
+    |   |       
+    |   +---devops
+    |   |       README.md
+    |   |       
+    |   +---engineering_metrics
+    |   |       README.md
+    |   |       
+    |   +---engineering_standards
+    |   |       README.md
+    |   |       
+    |   +---future_software_engineering
+    |   |       README.md
+    |   |       
+    |   +---platform_engineering
+    |   |       README.md
+    |   |       
+    |   +---qagi_engineering
+    |   |       README.md
+    |   |       
+    |   +---qai_software_engineering
+    |   |       README.md
+    |   |       
+    |   +---qasi_engineering
+    |   |       README.md
+    |   |       
+    |   +---requirements_engineering
+    |   |       README.md
+    |   |       
+    |   +---software_architecture
+    |   |       README.md
+    |   |       
+    |   +---software_design
+    |   |       README.md
+    |   |       
+    |   +---software_documentation
+    |   |       README.md
+    |   |       
+    |   +---software_foundations
+    |   |       README.md
+    |   |       
+    |   +---software_governance
+    |   |       README.md
+    |   |       
+    |   +---software_lifecycle
+    |   |       README.md
+    |   |       
+    |   +---software_modernization
+    |   |       README.md
+    |   |       
+    |   +---software_patterns
+    |   |       README.md
+    |   |       
+    |   +---software_quality
+    |   |       README.md
+    |   |       
+    |   +---software_security
+    |   |       README.md
+    |   |       
+    |   +---software_testing
+    |   |       README.md
+    |   |       
+    |   \---verification_validation
+    |           README.md
+    |           
+    +---space_systems
+    |       README.md
+    |       
+    +---spintronics
+    |       README.md
+    |       
+    +---standards
+    |       README.md
+    |       
+    +---startup
+    |       README.md
+    |       
+    +---systems_engineering
+    |   |   README.md
+    |   |   
+    |   +---architecture
+    |   |       README.md
+    |   |       
+    |   +---concept_of_operations
+    |   |       README.md
+    |   |       
+    |   +---configuration_management
+    |   |       README.md
+    |   |       
+    |   +---decision_analysis
+    |   |       README.md
+    |   |       
+    |   +---digital_engineering
+    |   |       README.md
+    |   |       
+    |   +---ecosystem_engineering
+    |   |       README.md
+    |   |       
+    |   +---engineering_standards
+    |   |       README.md
+    |   |       
+    |   +---enterprise_systems
+    |   |       README.md
+    |   |       
+    |   +---future_systems_engineering
+    |   |       README.md
+    |   |       
+    |   +---integration
+    |   |       README.md
+    |   |       
+    |   +---lifecycle_management
+    |   |       README.md
+    |   |       
+    |   +---mission_engineering
+    |   |       README.md
+    |   |       
+    |   +---model_based_systems_engineering
+    |   |       README.md
+    |   |       
+    |   +---qai_systems_engineering
+    |   |       README.md
+    |   |       
+    |   +---requirements_engineering
+    |   |       README.md
+    |   |       
+    |   +---risk_management
+    |   |       README.md
+    |   |       
+    |   +---systems_analysis
+    |   |       README.md
+    |   |       
+    |   +---systems_architecture
+    |   |       README.md
+    |   |       
+    |   +---systems_assurance
+    |   |       README.md
+    |   |       
+    |   +---systems_foundations
+    |   |       README.md
+    |   |       
+    |   +---systems_modeling
+    |   |       README.md
+    |   |       
+    |   +---systems_thinking
+    |   |       README.md
+    |   |       
+    |   \---verification_validation
+    |           README.md
+    |           
+    +---topological_quantum
+    |       README.md
+    |       
+    \---validation
+            README.md
+            
