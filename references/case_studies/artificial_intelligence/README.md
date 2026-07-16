@@ -6,7 +6,7 @@
 >
 > **Status:** Work In Progress
 
----
+-----
 
 # Artificial Intelligence Case Studies
 

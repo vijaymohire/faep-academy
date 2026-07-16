@@ -149,7 +149,7 @@ Continuous Learning
 | Hands-on Labs | [Labs](../../../labs/) |
 | Jupyter Notebooks | [Notebooks](../../../notebooks/) |
 | Engineering Projects | [Projects](../../../projects/) |
-| Case Studies | [Case Studies](../../../case_studies/) |
+| Hybrid Quantum Systems Case Studies | [Hybrid Quantum Systems Case Studies](../../../references/case_studies/hybrid_quantum_systems/README.md) |
 | References | [Reference Library](../../../references/README.md) |
 | Templates | [Templates](../../../templates/) |
 | Samples | [Samples](../../../samples/) |

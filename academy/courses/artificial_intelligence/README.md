@@ -149,7 +149,7 @@ Continuous Learning
 | AI Hands-on Labs | [AI Labs](../../../labs/artificial_intelligence_lab/) |
 | AI Notebooks | [AI Notebooks](../../../notebooks/artificial_intelligence/) |
 | Engineering Projects | [Projects](../../../projects/) |
-| AI Case Studies | [AI Case Studies](../../../case_studies/artificial_intelligence/) |
+| AI Case Studies | [AI Case Studies](../../../references/case_studies/artificial_intelligence/README.md) |
 | References | [Reference Library](../../../references/README.md) |
 | Templates | [Templates](../../../templates/) |
 | Samples | [Samples](../../../samples/) |

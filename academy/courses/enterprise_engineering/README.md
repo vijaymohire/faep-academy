@@ -148,7 +148,7 @@ Continuous Learning
 | Hands-on Labs | [Labs](../../../labs/) |
 | Jupyter Notebooks | [Notebooks](../../../notebooks/) |
 | Engineering Projects | [Projects](../../../projects/) |
-| Case Studies | [Case Studies](../../../case_studies/) |
+| Enterprise Engineering Case Studies | [Enterprise Engineering Case Studies](../../../references/case_studies/enterprise_engineering/README.md) |
 | References | [Reference Library](../../../references/README.md) |
 | Templates | [Templates](../../../templates/) |
 | Samples | [Samples](../../../samples/) |

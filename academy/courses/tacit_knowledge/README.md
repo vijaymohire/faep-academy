@@ -149,7 +149,7 @@ Continuous Learning
 | Jupyter Notebooks | [Tacit Knowledge Notebooks](../../../notebooks/tacit_knowledge/) |
 | Engineering Projects | [Tacit Fabric Projects](../../../projects/tacit_fabric/) |
 | Engineering Memory Projects | [Engineering Memory](../../../projects/engineering_memory/) |
-| Case Studies | [Tacit Knowledge Case Studies](../../../case_studies/tacit_knowledge/) |
+| Tacit Knowledge Case Studies | [Tacit Knowledge Case Studies](../../../references/case_studies/tacit_knowledge/README.md) |
 | References | [Reference Library](../../../references/README.md) |
 | Frameworks | [Tacit Intelligence Framework](../../../frameworks/tacit_intelligence_framework/) |
 

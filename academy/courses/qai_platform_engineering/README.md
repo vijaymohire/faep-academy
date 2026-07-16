@@ -150,7 +150,7 @@ Continuous Learning
 | Hands-on Labs | [Labs](../../../labs/) |
 | Jupyter Notebooks | [Notebooks](../../../notebooks/) |
 | Engineering Projects | [Projects](../../../projects/) |
-| Case Studies | [Case Studies](../../../case_studies/) |
+| QAI Platform Engineering Case Studies | [QAI Platform Engineering Case Studies](../../../references/case_studies/qai_platform_engineering/README.md) |
 | References | [Reference Library](../../../references/README.md) |
 | Templates | [Templates](../../../templates/) |
 | Samples | [Samples](../../../samples/) |

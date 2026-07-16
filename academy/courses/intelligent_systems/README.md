@@ -147,7 +147,7 @@ Continuous Learning
 | Hands-on Labs | [Labs](../../../labs/) |
 | Jupyter Notebooks | [Notebooks](../../../notebooks/) |
 | Engineering Projects | [Projects](../../../projects/) |
-| Case Studies | [Case Studies](../../../case_studies/) |
+| Intelligent Systems Case Studies | [Intelligent Systems Case Studies](../../../references/case_studies/intelligent_systems/README.md) |
 | References | [Reference Library](../../../references/README.md) |
 | Templates | [Templates](../../../templates/) |
 | Samples | [Samples](../../../samples/) |

@@ -146,7 +146,7 @@ Continuous Learning
 | Hands-on Labs | [Labs](../../../labs/) |
 | Jupyter Notebooks | [Notebooks](../../../notebooks/) |
 | Engineering Projects | [Projects](../../../projects/) |
-| Case Studies | [Case Studies](../../../case_studies/) |
+| Digital Twins Case Studies | [Digital Twins Case Studies](../../../references/case_studies/digital_twins/README.md) |
 | References | [Reference Library](../../../references/README.md) |
 | Templates | [Templates](../../../templates/) |
 | Samples | [Samples](../../../samples/) |
