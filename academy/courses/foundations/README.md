@@ -1,4 +1,4 @@
-[FAEP Education](../../README.md) → [FAEP Academy](../README.md) → [Course Catalog](../course_catalog.md) → **Foundations**
+[FAEP Education](../../../README.md) → [FAEP Academy](../../README.md) → [Course Catalog](../../course_catalog.md) → **Foundations**
 
 > **Audience:** Students • Professionals • Researchers • Educators • Entrepreneurs
 >
@@ -26,13 +26,13 @@ The Foundations course serves as the entry point to the FAEP Academy and prepare
 
 | I want to... | Go To |
 |---------------|-------|
-| 🏠 Academy Home | [Academy Home](../README.md) |
-| 📚 Course Catalog | [Course Catalog](../course_catalog.md) |
-| 🚀 Getting Started | [Getting Started](../getting_started.md) |
-| 🗺️ Learning Paths | [Learning Paths](../learning_paths.md) |
-| 🌐 Ecosystem Map | [Ecosystem Map](../ecosystem_map.md) |
-| 🧭 Learning Environment | [Learning Environment](../learning_environment.md) |
-| 💼 Student Portfolio | [Student Portfolio](../student_portfolio.md) |
+| 🏠 Academy Home | [Academy Home](../../README.md) |
+| 📚 Course Catalog | [Course Catalog](../../course_catalog.md) |
+| 🚀 Getting Started | [Getting Started](../../getting_started.md) |
+| 🗺️ Learning Paths | [Learning Paths](../../learning_paths.md) |
+| 🌐 Ecosystem Map | [Ecosystem Map](../../ecosystem_map.md) |
+| 🧭 Learning Environment | [Learning Environment](../../learning_environment.md) |
+| 💼 Student Portfolio | [Student Portfolio](../../student_portfolio.md) |
 
 ---
 
@@ -279,7 +279,7 @@ Continue your learning journey through the **FAEP Client Lab**, where Academy co
 
 ### Previous
 
-← [Course Catalog](../course_catalog.md)
+← [Course Catalog](../../course_catalog.md)
 
 ### Next
 
@@ -287,12 +287,12 @@ Continue your learning journey through the **FAEP Client Lab**, where Academy co
 
 ### Related Resources
 
-- [Learning Paths](../learning_paths.md)
-- [Course Map](../course_map.md)
-- [Learning Journeys](../learning_journeys.md)
-- [Competencies](../competencies.md)
-- [Learning Environment](../learning_environment.md)
-- [Student Portfolio](../student_portfolio.md)
+- [Learning Paths](../../learning_paths.md)
+- [Course Map](../../course_map.md)
+- [Learning Journeys](../../learning_journeys.md)
+- [Competencies](../../competencies.md)
+- [Learning Environment](../../learning_environment.md)
+- [Student Portfolio](../../student_portfolio.md)
 
 ---
 

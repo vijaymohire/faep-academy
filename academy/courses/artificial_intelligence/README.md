@@ -1,4 +1,4 @@
-[FAEP Education](../../README.md) → [FAEP Academy](../README.md) → [Course Catalog](../course_catalog.md) → **Artificial Intelligence**
+[FAEP Education](../../../README.md) → [FAEP Academy](../../README.md) → [Course Catalog](../../course_catalog.md) → **Artificial Intelligence**
 
 > **Audience:** Students • Professionals • Researchers • Educators • Entrepreneurs
 >
@@ -26,13 +26,13 @@ This course introduces Artificial Intelligence as an engineering discipline and 
 
 | I want to... | Go To |
 |---------------|-------|
-| 🏠 Academy Home | [Academy Home](../README.md) |
-| 📚 Course Catalog | [Course Catalog](../course_catalog.md) |
+| 🏠 Academy Home | [Academy Home](../../README.md) |
+| 📚 Course Catalog | [Course Catalog](../../course_catalog.md) |
 | 🚀 Foundations | [Foundations](../foundations/README.md) |
-| 🗺️ Learning Paths | [Learning Paths](../learning_paths.md) |
-| 🌐 Ecosystem Map | [Ecosystem Map](../ecosystem_map.md) |
-| 🧭 Learning Environment | [Learning Environment](../learning_environment.md) |
-| 💼 Student Portfolio | [Student Portfolio](../student_portfolio.md) |
+| 🗺️ Learning Paths | [Learning Paths](../../learning_paths.md) |
+| 🌐 Ecosystem Map | [Ecosystem Map](../../ecosystem_map.md) |
+| 🧭 Learning Environment | [Learning Environment](../../learning_environment.md) |
+| 💼 Student Portfolio | [Student Portfolio](../../student_portfolio.md) |
 
 ---
 
@@ -316,12 +316,12 @@ Continue your Artificial Intelligence journey through the **FAEP Client Lab**, w
 
 ### Related Resources
 
-- [Learning Paths](../learning_paths.md)
-- [Course Map](../course_map.md)
-- [Learning Journeys](../learning_journeys.md)
-- [Competencies](../competencies.md)
-- [Learning Environment](../learning_environment.md)
-- [Student Portfolio](../student_portfolio.md)
+- [Learning Paths](../../learning_paths.md)
+- [Course Map](../../course_map.md)
+- [Learning Journeys](../../learning_journeys.md)
+- [Competencies](../../competencies.md)
+- [Learning Environment](../../learning_environment.md)
+- [Student Portfolio](../../student_portfolio.md)
 
 ---
 
