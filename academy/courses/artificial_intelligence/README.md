@@ -150,7 +150,7 @@ Continuous Learning
 | AI Notebooks | [AI Notebooks](../../../notebooks/artificial_intelligence/) |
 | Engineering Projects | [Projects](../../../projects/) |
 | AI Case Studies | [AI Case Studies](../../../case_studies/artificial_intelligence/) |
-| AI References | [AI References](../../../references/artificial_intelligence/) |
+| References | [Reference Library](../../../references/README.md) |
 | Templates | [Templates](../../../templates/) |
 | Samples | [Samples](../../../samples/) |
 

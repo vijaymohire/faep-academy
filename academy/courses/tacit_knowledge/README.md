@@ -150,7 +150,7 @@ Continuous Learning
 | Engineering Projects | [Tacit Fabric Projects](../../../projects/tacit_fabric/) |
 | Engineering Memory Projects | [Engineering Memory](../../../projects/engineering_memory/) |
 | Case Studies | [Tacit Knowledge Case Studies](../../../case_studies/tacit_knowledge/) |
-| References | [Tacit Knowledge References](../../../references/tacit_knowledge/) |
+| References | [Reference Library](../../../references/README.md) |
 | Frameworks | [Tacit Intelligence Framework](../../../frameworks/tacit_intelligence_framework/) |
 
 ---

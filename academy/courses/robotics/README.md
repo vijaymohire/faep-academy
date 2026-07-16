@@ -147,7 +147,7 @@ Continuous Learning
 | Jupyter Notebooks | [Notebooks](../../../notebooks/) |
 | Engineering Projects | [Projects](../../../projects/) |
 | Case Studies | [Case Studies](../../../case_studies/) |
-| References | [References](../../../references/) |
+| References | [Reference Library](../../../references/README.md) |
 | Templates | [Templates](../../../templates/) |
 | Samples | [Samples](../../../samples/) |
 
